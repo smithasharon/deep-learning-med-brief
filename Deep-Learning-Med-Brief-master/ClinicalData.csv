@@ -1,0 +1,1387 @@
+﻿Article ID,Article Name,Abstract,Summarized Abstract,Abs vs SAbs,Title vs Abs,Title vs SAbs,ROUGE-1,ROUGE-2,ROUGE-L
+37741773,"Does GPT-4 have neurophobia? Localization and diagnostic accuracy of an 
+artificial intelligence-powered chatbot in clinical vignettes.","BACKGROUND AND OBJECTIVES: This is an observational study of the performance of 
+an artificial intelligence-powered chatbot tasked with solving unknown 
+neurologic case vignettes. The primary objective of the study is to assess the 
+current capabilities of widely-accessible artificial intelligence within the 
+field of clinical neurology in order to determine how this technology can be 
+deployed in clinical practice, and what insights can be learned from its 
+performance and translated to clinical education.
+METHODS: This observational study tested the accuracy of GPT-4, an artificial 
+intelligence-powered chatbot, at appropriately localizing and generating a 
+differential diagnosis for a series of 29 clinical case vignettes. The cases 
+were from previously published educational material prepared for learners. No 
+cases required more than text input, a current limitation of GPT-4. The primary 
+outcome measures were ranked accuracy of localization and differential diagnosis 
+based on clinical history and exam alone and after ancillary clinical data was 
+provided. Secondary outcome measures included a comparison of accuracy by case 
+difficulty.
+RESULTS: GPT-4 identified the correct localization less than 50% of the time and 
+performed worse when provided ancillary testing. GPT-4 was more accurate with 
+localization and diagnosis of easier versus harder cases. Diagnostic accuracy 
+was independent of its ability to localize the lesion.
+DISCUSSION: GPT-4 did not perform as well on neurology clinical vignettes as 
+compared to reported accuracy when provided other medical clinical vignettes. 
+Incorporation of an AI chatbot into the practice of clinical neurology will 
+require neurology-focused teaching.","Study tested the accuracy of GPT-4, an artificial intelligence-powered chatbot. It identified the correct localization less than 50% of the time and performed worse when provided ancillary testing. Diagnostic accuracy was independent of its ability to localize the lesion. Incorporation of an AI chatbot into the practice of clinical neurology will require neurology-focused teaching, the authors say. The study was published in the Journal of Neurology, Neurosurgery and Psychiatry.",0.837935686,0.739222348,0.797093093,0.141935484,0.149350649,0.838174274
+37740904,"Natural language processing in narrative breast radiology reporting in 
+University Malaya Medical Centre.","Radiology reporting is narrative, and its content depends on the clinician's 
+ability to interpret the images accurately. A tertiary hospital, such as 
+anonymous institute, focuses on writing reports narratively as part of training 
+for medical personnel. Nevertheless, free-text reports make it inconvenient to 
+extract information for clinical audits and data mining. Therefore, we aim to 
+convert unstructured breast radiology reports into structured formats using 
+natural language processing (NLP) algorithm. This study used 327 de-identified 
+breast radiology reports from the anonymous institute. The radiologist 
+identified the significant data elements to be extracted. Our NLP algorithm 
+achieved 97% and 94.9% accuracy in training and testing data, respectively. 
+Henceforth, the structured information was used to build the predictive model 
+for predicting the value of the BIRADS category. The model based on random 
+forest generated the highest accuracy of 92%. Our study not only fulfilled the 
+demands of clinicians by enhancing communication between medical personnel, but 
+it also demonstrated the usefulness of mineable structured data in yielding 
+significant insights.","Radiology reporting is narrative, and its content depends on the clinician's ability to interpret the images accurately. Free-text reports make it inconvenient to extract information for clinical audits and data mining. We aim to convert unstructured breast radiology reports into structured formats using a natural language processing (NLP) algorithm. Our NLP algorithm achieved 97% and 94.9% accuracy in training and testing data, respectively. The model based on random forest generated the highest accuracy of 92%. Our study not only fulfilled the demands of clinicians by enhancing communication between medical personnel, but also demonstrated the usefulness of mineable structured data.",0.944743872,0.728862107,0.747931302,0.299242424,0.335877863,0.43030303
+37740672,"Effect of minimally invasive versus conventional aortic root replacement on 
+transfusion and postoperative wound complications in patients: A meta-analysis.","We examined whether small incision aortic root replacement could reduce the 
+amount of blood transfusion during operation and the risk of postoperative 
+complications. An extensive e-review of the 4 main databases (PubMed, Cochrane, 
+Web of Science and EMBASE) was carried out to determine all the published trials 
+by July 2023. The search terms used were associated with partial versus full 
+sternotomy and aortic root. This analysis only included the study articles that 
+compared partial and full sternotomy. After excluding articles based on titles 
+or abstracts, selected full-text articles had reference lists searched for any 
+potential further articles. We analysed a total of 2167 subjects from 10 
+comparable trials. The minimally invasive aortic root graft in breastbone 
+decreased the duration of hospitalization (MD, -2.58; 95% CI, -3.15, -2.01, 
+p < 0.0001) and intraoperative red blood cell transfusion (MD, -1.27; 95% CI, 
+-2.34, -0.19, p = 0.02). However, there were no significant differences in wound 
+infection (OR, 0.88; 95% CI, 0.16, 4.93, p = 0.88), re-exploration for bleeding 
+(OR, 0.96; 95% CI, 0.60, 1.53, p = 0.86), intraoperative blood loss (MD, 
+-259.19; 95% CI, -615.11, 96.73, p = 0.15) and operative time (MD, -7.39; 95% 
+CI, -19.10, 4.32, p = 0.22); the results showed that the microsternotomy did not 
+differ significantly from that of the routine approach. Small sternotomy may be 
+an effective and safe substitute for the treatment of the aorta root. 
+Nevertheless, the wide variety of data indicates that larger, well-designed 
+studies are required to back up the current limited literature evidence showing 
+a benefit in terms of complications like postoperative wound infections or the 
+volume of intraoperative red blood cell transfusion.","Small incision aortic root replacement could reduce the amount of blood transfusion during operation and the risk of postoperative complications. An extensive e-review of the 4 main databases (PubMed, Cochrane, Web of Science and EMBASE) was carried out to determine all the published trials. Small sternotomy may be an effective and safe substitute for the treatment of the aorta root. But larger, well-designed studies are required to back up the current limited literature evidence.",0.855297506,0.686593652,0.800875664,0.167630058,0.191860465,0.738970588
+37740212,"A network meta-analysis of different acupuncture modalities in the treatment of 
+bronchial asthma.","BACKGROUND: Glucocorticoids and Beta-2 receptor agonists are commonly used for 
+the treatment of asthma in clinical practice, while these agents are accompanied 
+by adverse reactions of different kinds. Studies have shown that acupuncture is 
+effective in treating bronchial asthma. However, different acupuncture 
+modalities have different costs and skill requirements, and there remains a lack 
+of comparisons between different acupuncture modalities. This study aims to 
+assess the efficacy of various acupuncture modalities in the treatment of 
+asthma.
+METHODS: The following databases were searched for randomized controlled trials 
+(RCTs) on acupuncture for the treatment of bronchial asthma from database 
+inception to August 26, 2022: PubMed, Embase, The Cochrane Library, Web of 
+Science, Chinese Journal Full-text Database (CNKI), Wanfang Database (Wanfang 
+Date), VIP Database (VIP), China Biology Medicine disc (CBM). Stata 15.1 
+software was used to conduct network meta-analysis. The risk of bias in the 
+included studies was evaluated using the Cochrane Risk of Bias Assessment Tool 2 
+(RoB2).
+RESULTS: A total of 8,693 relevant studies were found, and 30 RCTs were 
+included, involving 2,722 patients with bronchial asthma and eight acupuncture 
+modalities: manual acupuncture, moxibustion, electroacupuncture, ignipuncture, 
+flying needle acupuncture, acupoint catgut embedding, acupoint application, and 
+warm-needle moxibustion. The other 29 studies had certain risks, with the 
+quality graded as ""moderate"". Among the pair-wise comparisons of statistical 
+significance (p < 0.05), acupoint application was the most effective in 
+improving pulmonary function (FEV1: Traditional medicine therapy-acupoint 
+application [-7.29 (-12.11,-2.47)]; acupoint application-moxibustion [7.20 
+(0.28,14.11)]; FVC: acupoint application-Traditional medicine therapy [8.02 
+(2.54,13.50)]). Acupoint catgut embedding was the most effective in improving 
+the ACT score of the patients (Traditional medicine therapy-acupoint catgut 
+embedding [-4.29 (-7.94, -0.65)]; acupoint catgut embedding-moxibustion [5.52 
+(1.05,9.99)]).
+CONCLUSION: Acupoint application has evident merits in improving the clinical 
+response rate and pulmonary function, while acupoint catgut embedding can 
+improve other secondary indicators. For the clinical treatment of asthma, 
+acupoint application can be selected as a complementary and alternative therapy, 
+while the other acupuncture therapies can also be considered according to the 
+examination results of the patients.","Acupoint application was the most effective in improving pulmonary function. Acupoint catgut embedding can improve other secondary indicators. Acupuncture can be selected as a complementary and alternative therapy, while the other acupuncture therapies can also be considered according to the results of the patients. The Cochrane Risk of Bias Assessment Tool 2 (RoB2) was used to assess the risk of bias in the studies included in this study. The other 29 studies had certain risks, with the quality graded as ""moderate""",0.83747232,0.770667553,0.713797092,0.130434783,0.155339806,0.903903904
+37739854,"To rest or to compete? A 4-week cohort study of analgesic use and willingness to 
+compete hurt in Danish youth elite athletes.","OBJECTIVES: To assess the association between analgesic use and willingness to 
+compete hurt (WCH) in Danish youth elite athletes, and to explore factors 
+associated with such willingness.
+DESIGN: 4-week prospective cohort study.
+METHODS: 592 Danish youth elite athletes (15-20 years) completed a baseline 
+questionnaire assessing demographic information, sport history, and WCH, and 
+provided weekly reports on analgesic use for 4 weeks via text messages. 
+Analgesic use was categorized as no use (0 weeks) or use across 1, 2, 3, or 
+4 weeks, and as the total number of days with analgesic use. Multinomial 
+logistic regression and zero-inflated negative binomial regression analyses 
+estimated the association between analgesic use and WCH. Linear backward 
+stepwise regression analysis was used to identify factors associated with WCH.
+RESULTS: Overall, risk of analgesic use increased significantly with increasing 
+WCH scores (relative risk ratios ranging from 1.06 (95% CI 1.0 to 1.12%) to 
+1.34% (95% CI 1.15 to 1.57)). The incidence rate of analgesic use increased 
+significantly with increasing WCH scores (incidence rate ratio 1.09 (95% CI 1.04 
+to 1.14)). Associations between the investigated possible antecedent factors and 
+WCH were weak and not considered practically important (R2 = 0.05 or lower).
+CONCLUSIONS: Higher WCH scores were associated with increasing risk of analgesic 
+use, irrespective of the underlying reason for the use, in Danish youth elite 
+athletes, suggesting that analgesics may be an ingrained part of a 
+sport-specific culture of risk acceptance. Future studies should include 
+measures of culture, norms, and social interaction to better explain the 
+variance in WCH.","Analgesic use was categorized as no use (0 weeks) or use across 1, 2, 3, or 4 weeks. The incidence rate of analgesic use increased significantly with increasing WCH scores. The study suggests that analgesics may be an ingrained part of a sport-specific culture of risk acceptance. Future studies should include measures of culture, norms, and social interaction to better explain the variability in WCH. Back to Mail Online home. Back To the page you came from.",0.661455035,0.673870921,0.766894519,0.161094225,0.168195719,0.813492063
+37739728,"Phytosterol supplementation in capsules or tablets as adjunctive treatment for 
+hypercholesterolemia: A systematic review of randomized controlled trials.","BACKGROUND: The exploration of lipid-lowering resources, such as phytosterols, 
+for the complementary nutritional treatment of hypercholesterolemia is relevant 
+to reduce cardiovascular risk. The use of phytosterols in capsules or tablets 
+can bring advantages in the context of diet therapy, but such format is still 
+less studied when compared to fortified foods.
+OBJECTIVE: Systematically review randomized clinical trials on the effects of 
+phytosterol supplementation, in capsules or tablets, on the lipid profile and 
+its use in the treatment of hypercholesterolemia in adults.
+DESIGN: A systematic review was carried out in accordance with the Preferred 
+Reporting Items for Systematic Reviews and Meta-Analysis, with a PROSPERO 
+protocol registered under number CRD42021249539. The process was conducted by 
+two independent reviewers. Only randomized clinical trials with phytosterol 
+supplementation in adult individuals with hypercholesterolemia were included. 
+The terms were searched in the databases: PubMed/MEDLINE, Cochrane 
+Library/CENTRAL, Embase, LILACS and Web of Science, without restriction of time 
+and language. The manual search was also performed through the list of 
+references of articles included in this review.
+RESULTS: The searches resulted in 977 articles. 22 articles were selected, whose 
+full text was read, and according to the eligibility criteria 10 were 
+incorporated into the review. The studies were separated into groups according 
+to the association of the intervention with changes in lifestyle and the 
+characteristics extracted from the studies were summarized and displayed in 
+tables. Most studies have revealed a positive association between phytosterol 
+supplementation and cholesterol reduction, despite the short duration of 
+interventions.
+CONCLUSION: The analyzed studies showed that phytosterol supplements can be 
+useful to modulate the lipid profile, helping to reduce the plasma concentration 
+of LDL cholesterol. However, more research with the aforementioned 
+supplementation in such pharmaceutical formats should be encouraged.","The use of phytosterols in capsules or tablets can bring advantages in the context of diet therapy, but such format is still less studied when compared to fortified foods. Most studies have revealed a positive association betweenphytosterol and cholesterol reduction, despite the short duration of interventions. However, more research with the aforementioned pharmaceutical formats should be encouraged, the authors say. The study was published in the online edition of the Journal of Clinical Nutrition, published by the American College of Nutrition (ACN).",0.808320165,0.762518466,0.789907873,0.141689373,0.139726027,0.831578947
+37739223,"Management of postoperative outcomes of polytetrafluoroethylene membranes in 
+alveolar ridge reconstruction: a systematic review.","Guided bone regeneration (GBR) is a validated technique with satisfactory 
+outcomes during 30 years of follow-up. The use of polytetrafluoroethylene (PTFE) 
+membrane for vertical augmentation has been studied extensively. However, 
+studies have reported exposure rates of up to 31%, there is no consensus on the 
+management of postoperative exposure. The objective of this study was to propose 
+a management approach for postoperative exposure of polytetrafluoroethylene 
+(PTFE) membranes in alveolar ridge reconstruction.
+MATERIAL AND METHOD: An electronic search in PubMed Central's and additional 
+electronic databases was performed. The search strategy was limited to human 
+studies, full-text English or French articles published from 1990 until april 
+2023. The extracted data included defect location, membrane type, biomaterials, 
+time to postoperative exposure, and Fontana classification stage. Protocol bias 
+assessment was performed using an adaptation of the QUADAS-2 tool. This review 
+has been registered on PROSPERO (ID: CRD42023445497).
+RESULTS: A total of 43 articles were found to be eligible, and 11 of these met 
+the predefined inclusion and exclusion criteria. Based on the results of this 
+systematic review, an algorithm for the management of PTFE membrane exposure is 
+proposed.
+CONCLUSION: Postoperative membrane exposure is not a determining factor for the 
+success of bone grafting. In cases with postoperative complications, the 
+majority of cases still achieved adequate implant-prosthetic rehabilitation. 
+Lastly, this series of 11 articles was insufficient to draw conclusions 
+regarding good practice recommendations. A larger series is required to validate 
+the specific management approaches.",The use of polytetrafluoroethylene (PTFE) membranes for vertical augmentation has been studied extensively. There is no consensus on the management of postoperative exposure of PTFE membranes in alveolar ridge reconstruction. This review has been registered on PROSPERO (ID: CRD42023445497). The majority of cases with postoperative complications still achieved adequate implant-prosthetic rehabilitation. A larger series is required to validate the specific management approaches.,0.900016189,0.764064729,0.841932952,0.159468439,0.16722408,0.765690377
+37739056,Prevalence of Awake Bruxism: a systematic review.,"OBJECTIVES: To identify the prevalence of Awake Bruxism (AB).
+SOURCES: The electronic search was done in Embase, PubMed/MEDLINE, LILACS, 
+Livivo, Scopus, and Web of Science databases up to January 2nd, 2023. The search 
+strategies combined terms such as ""bruxism,"" ""awake,"" and related terms when 
+conducting searches in databases. Grey literature was consulted through Google 
+Scholar, ProQuest, and OpenGrey.
+STUDY SELECTION: Two independent reviewers participated in the study selection 
+stages and included observational studies assessing the prevalence of AB, 
+detected using reporting feedback (self or family report), clinical examination, 
+and/or instrumental methods, regardless of the sex and age of the population.
+DATA: Methodological quality was assessed using the Joanna Briggs Institute's 
+checklist for prevalence studies. Ratio meta-analyses were performed using R 
+Statistics software.
+RESULTS: From a total of 3,083 studies identified by the searches on databases, 
+322 articles were reviewed the full-text and a total of 81 (quantitative 
+synthesis) and 83 (narrative synthesis) studies were included. Only fifteen 
+studies reached complete methodological quality. Two overall meta-analyses were 
+performed, grouped based on convenience and population-based samples. The 
+overall prevalence for possible AB was 32.08% and 16.16%, respectively. For the 
+subgroup analyses, the prevalence rate showed a wide variation in different 
+studied populations, approximately 14%-32% for women and 19%-30% for men, for 
+population-based and convenience studies, respectively.
+CONCLUSION: Possible AB prevalence was set from 16% to 32%. Studies with 
+probable AB and definitive AB are still necessary.
+CLINICAL SIGNIFICANCE: Studying the prevalence of waking bruxism is of interest 
+to both dentists and patients. Knowing the probability of patients having awake 
+bruxism allows the dentist to offer comprehensive preventive approaches to 
+patients, avoiding deleterious consequences resulting from this condition. The 
+present study reveals that the condition of bruxism during wakefulness is 
+present in one out of every six adult patients studied. In pediatric patients, 
+although this condition seems to be equally present, not enough studies were 
+found to support this information for probable and definitive bruxism.","Possible AB prevalence was set from 16% to 32%. Studies with probable AB and definitive AB are still necessary. The condition of bruxism during wakefulness is present in one out of every six adult patients studied. Knowing the probability of patients having awake  grotesquebruxism allows the dentist to offer comprehensive preventive approaches to patients, avoiding deleterious consequences resulting from this condition. The prevalence rate showed a wide variation in different studied populations, approximately 14%-32% for women and 19%-30% for men.",0.877095997,0.662946522,0.655177772,0.15920398,0.18,0.860248447
+37739039,"Pharmacokinetic-guided versus standard prophylaxis in hemophilia- A systematic 
+review and meta-analysis.","BACKGROUND: With population pharmacokinetic (PK) modeling more readily available 
+and PK-guided prophylaxis endorsed by current hemophilia guidelines, we 
+conducted a systematic review to summarize current evidence in the literature.
+OBJECTIVE: To assess the efficacy of PK-guided compared to non-PK-guided 
+prophylaxis.
+METHODS: We did not restrict inclusion to specific study design labels and 
+included all studies consisting of at least one distinct cohort arm receiving 
+PK-guided prophylaxis. We searched the following databases from inception to 
+date of search: MEDLINE, Embase, CENTRAL, ClinicalTrials.gov, and the EU 
+Clinical Trial Register. Following title, abstract, and full text screening 
+conducted independently by two review authors, we summarized studies 
+qualitatively and synthesized included randomized clinical trials (RCT) 
+quantitatively by fitting random-effects models.
+RESULTS: Search of databases on 3 February 2023 yielded 25 studies fitting our 
+inclusion criteria. Of those, only two RCT and 17 non-randomized studies 
+included a standard prophylaxis comparator group. Furthermore, risk of bias in 
+the latter was substantial, primarily due to before-after study designs and 
+retrospective comparator groups. Thus, non-randomized studies were only 
+presented qualitatively. A random-effects meta-analysis of the two identified 
+RCT remained inconclusive with regards to bleeding outcomes (ratio of means 
+1.15; 95%CI, 0.85-1.56) and factor consumption (ratio of means 0.82; 95%CI, 
+0.58-1.18).
+CONCLUSION: Evidence in the literature suggesting a clinical benefit of 
+PK-guided over standard fixed-dose prophylaxis was weak and mainly found in 
+non-randomized studies limited by lack of concurrent controls, heterogeneity in 
+outcome reporting, small sample sizes, and high risk of bias.","Review of studies to assess the efficacy of PK-guided compared to non-PK-guided prophylaxis. Only two RCT and 17 non-randomized studies included a standard prophyaxis comparator group. Risk of bias in the latter was substantial, primarily due to before-after study designs and retrospective comparator groups. A random-effects meta-analysis of the two identified RCTs remained inconclusive with regards to bleeding outcomes and factor consumption. Evidence in the literature suggesting a clinical benefit of                 PK- guided was weak and mainly found in                 non- randomized studies limited by lack of concurrent controls and small sample sizes.",0.892937601,0.753447652,0.743743718,0.173134328,0.192192192,0.687242798
+37738791,"A systematic scoping review of patient and caregiver self-report measures of 
+satisfaction with clinicians' communication.","OBJECTIVE: We conducted a systematic scoping review of self-report tools used to 
+measure patient and/or caregiver satisfaction with clinician communication. Aims 
+included identifying: 1) instruments that have been used to measure 
+communication satisfaction, and 2) content of the communication items on 
+measures.
+METHODS: Two databases (PubMed and CINAHL) were searched for relevant studies. 
+Eligibility included patient or caregiver self-report tools assessing 
+satisfaction with clinicians' communication in a biomedical healthcare setting; 
+and the stated purpose for using the measurement involved evaluating 
+communication satisfaction and measures included more than one question about 
+this. All data were charted in a form created by the authors.
+RESULTS: Our search yielded a total of 4531 results screened as title and 
+abstracts; 228 studies were screened in full text and 85 studies were included 
+in the review. We found 53 different tools used to measure communication 
+satisfaction among those 85 studies, including 29 previously used measures 
+(e.g., FS-ICU-24, CAHPS), and 24 original measures developed by authors. Content 
+of communication satisfaction items included satisfaction with content-specific 
+communication, interpersonal communication skills of clinicians, communicating 
+to set the right environment, and global communication satisfaction items.
+CONCLUSION: There was high variability in the number of items and types of 
+content on measures. Communication satisfaction should be better conceptualized 
+to improve measurement, and more robust measures should be created to capture 
+complex factors of communication satisfaction.
+PRACTICE IMPLICATIONS: Creating a rigorous evaluation of satisfaction with 
+clinician communication may help strengthen communication research and the 
+assessment of communication interventions.",Review of self-report tools used to measure patient and/or caregiver satisfaction with clinician communication. High variability in the number of items and types of content on measures. More robust measures should be created to capture complex factors of communication satisfaction. Creating a rigorous evaluation of satisfaction with clinicians' communication may help strengthen communication research and the assessment of communication interventions. The study was published in the online edition of the Journal of Clinical and Translational Epidemiology and Biobehavioral Research.,0.84272033,0.702097833,0.836825967,0.13803681,0.160493827,0.850202429
+37738371,"Gingivectomy with Diode Laser Versus the Conventional Scalpel Surgery and 
+Nonsurgical Periodontal Therapy in Treatment of Orthodontic Treatment-Induced 
+Gingival Enlargement: A Systematic Review.","Background and objective: Some studies support the superiority of diode laser 
+gingivectomy to scalpel surgery and nonsurgical treatments. However, a 
+systematic review on this topic is lacking. This study aimed to compare 
+gingivectomy with diode laser versus the conventional scalpel surgery and 
+nonsurgical periodontal therapy (NSPT) in the treatment of orthodontic 
+treatment-induced gingival enlargement (GE). Materials and methods: In this 
+systematic review, an electronic search of the relevant literature was conducted 
+in Web of Science, Medline/PubMed, Scopus, Cochrane Central Register of 
+Controlled Trials, and ProQuest with no language restriction. Randomized 
+clinical trials published between 1985 and 2020 on comparative treatment of 
+orthodontic treatment-induced GE by diode laser gingivectomy and scalpel surgery 
+or NSPT regarding intraoperative and postoperative bleeding and/or pain were 
+included. Risk of bias was assessed by the Cochrane 1 tool. Results: Of the 
+initially retrieved 288 articles, 40 were duplicates and excluded; 236 articles 
+were excluded following title and abstract screening, and 5 others were excluded 
+following full-text assessment. Finally, 7 studies underwent systematic review. 
+In the risk-of-bias assessment, 5 studies scored 2, and 2 studies scored 3 out 
+of 6. Intraoperative and postoperative bleeding and pain were found to be 
+significantly lower in the laser group. Conclusions: Within the limitations of 
+this systematic review and with respect to the quality of evidence, the present 
+results revealed lower level of pain and bleeding in diode laser gingivectomy 
+compared with the conventional scalpel surgery and NSPT for treatment of 
+orthodontic treatment-induced GE.","Some studies support the superiority of diode laser gingivectomy to scalpel surgery and nonsurgical treatments. A systematic review of the relevant literature was conducted. Intraoperative and postoperative bleeding and pain were found to be significantly lower in the laser group than the conventional scalpel group. Conclusions: Within the limitations of this systematic review and with respect to the quality of evidence, the present results revealed lower level of pain and bleeding in diode lasers compared with scalpel surgeries.",0.918085992,0.772214115,0.787602663,0.140186916,0.197492163,0.736625514
+37738150,"Prevalence and severity of abdominal bloating in patients with gastroesophageal 
+reflux disease.","Abdominal bloating (AB) is a common symptom among patients with gastroesophageal 
+reflux disease (GERD); however, in clinical practice, its prevalence is likely 
+underestimated due to the lack of objective tools to measure its frequency and 
+severity. It is associated with dissatisfaction and worse quality of life, but 
+data on its prevalence before and after mechanical control of GERD (i.e. 
+fundoplication, magnetic sphincter augmentation, and antireflux mucosectomy) are 
+lacking. To assess and determine the pre- and postoperative prevalence and 
+severity of AB among patients with GERD, we conducted a structured literature 
+search using MeSH and free-text terms in MEDLINE (via Pubmed), EMBASE, and 
+Taylor & Francis Online between January 1977 and October 2022. Fifteen articles 
+reporting the prevalence or severity of AB using quality-of-life questionnaires 
+before or after antireflux surgery (ARS) were included. Overall, a high 
+prevalence of AB before ARS was found. A decline in the prevalence and severity 
+of AB was documented postoperatively in most cases independent of the surgical 
+approach. Among surgical approaches, a complete fundoplication had the highest 
+reported postoperative AB. Overall, patients reported less severe and less 
+frequent AB after ARS than before. The traditional belief that postoperative 
+bloating is a sequela of ARS should be reevaluated.","Abdominal bloating (AB) is a common symptom among patients with gastroesophageal                 reflux disease (GERD) It is associated with dissatisfaction and worse quality of life, but data on its prevalence before and after mechanical control of GERD are lacking. To assess and determine the pre- and postoperative prevalence and severity of AB, we conducted a structured literature search using MeSH and free-text terms in MEDLINE (via Pubmed), EMBASE, and Taylor & Francis Online.",0.844077408,0.74225992,0.718350232,0.208791209,0.239852399,0.656716418
+37737436,"International Urogynecology consultation chapter 2 committee 3: the clinical 
+evaluation of pelvic organ prolapse including investigations into associated 
+morbidity/pelvic floor dysfunction.","INTRODUCTION AND HYPOTHESIS: This manuscript from Chapter 2 of the International 
+Urogynecology Consultation (IUC) on Pelvic Organ Prolapse (POP) reviews the 
+literature involving the clinical evaluation of a patient with POP and 
+associated bladder and bowel dysfunction.
+METHODS: An international group of 11 clinicians performed a search of the 
+literature using pre-specified search MESH terms in PubMed and Embase databases 
+(January 2000 to August 2020). Publications were eliminated if not relevant to 
+the clinical evaluation of patients or did not include clear definitions of POP. 
+The titles and abstracts were reviewed using the Covidence database to determine 
+whether they met the inclusion criteria. The manuscripts were reviewed for 
+suitability using the Specialist Unit for Review Evidence checklists. The data 
+from full-text manuscripts were extracted and then reviewed.
+RESULTS: The search strategy found 11,242 abstracts, of which 220 articles were 
+used to inform this narrative review. The main themes of this manuscript were 
+the clinical examination, and the evaluation of comorbid conditions including 
+the urinary tract (LUTS), gastrointestinal tract (GIT), pain, and sexual 
+function. The physical examination of patients with pelvic organ prolapse (POP) 
+should include a reproducible method of describing and quantifying the degree of 
+POP and only the Pelvic Organ Quantification (POP-Q) system or the Simplified 
+Pelvic Organ Prolapse Quantification (S-POP) system have enough reproducibility 
+to be recommended. POP examination should be done with an empty bladder and 
+patients can be supine but should be upright if the prolapse cannot be 
+reproduced. No other parameters of the examination aid in describing and 
+quantifying POP. Post-void residual urine volume >100 ml is commonly used to 
+assess for voiding difficulty. Prolapse reduction can be used to predict the 
+possibility of postoperative persistence of voiding difficulty. There is no 
+benefit of urodynamic testing for assessment of detrusor overactivity as it does 
+not change the management. In women with POP and stress urinary incontinence 
+(SUI), the cough stress test should be performed with a bladder volume of at 
+least 200 ml and with the prolapse reduced either with a speculum or by a 
+pessary. The urodynamic assessment only changes management when SUI and voiding 
+dysfunction co-exist. Demonstration of preoperative occult SUI has a positive 
+predictive value for de novo SUI of 40% but most useful is its absence, which 
+has a negative predictive value of 91%. The routine addition of radiographic or 
+physiological testing of the GIT currently has no additional value for a 
+physical examination. In subjects with GIT symptoms further radiological but not 
+physiological testing appears to aid in diagnosing enteroceles, sigmoidoceles, 
+and intussusception, but there are no data on how this affects outcomes. There 
+were no articles in the search on the evaluation of the co-morbid conditions of 
+pain or sexual dysfunction in women with POP.
+CONCLUSIONS: The clinical pelvic examination remains the central tool for 
+evaluation of POP and a system such as the POP-Q or S-POP should be used to 
+describe and quantify. The value of investigation for urinary tract dysfunction 
+was discussed and findings presented. The routine addition of GI radiographic or 
+physiological testing is currently not recommended. There are no data on the 
+role of the routine assessment of pain or sexual function, and this area needs 
+more study. Imaging studies alone cannot replace clinical examination for the 
+assessment of POP.","The main themes of this manuscript were the clinical examination, and the evaluation of comorbid conditions including urinary tract (LUTS), gastrointestinal tract (GIT), pain, and sexual function. The physical examination of patients with pelvic organ prolapse (POP) should include a reproducible method of describing and quantifying the degree of POP. The value of investigation for urinary tract dysfunction was discussed and findings presented. The routine addition of GI radiographic or physiological testing is currently not recommended.",0.71245116,0.552416801,0.827066362,0.095008052,0.117932149,0.860550459
+37736904,"Methadone Treatment Gap in Tennessee and How Medication Units Could Bridge the 
+Gap: A Review.","The opioid epidemic has been an ongoing public health concern in the United 
+States (US) for the last few decades. The number of overdose deaths involving 
+opioids, hereafter referred to as overdose deaths, has increased yearly since 
+the mid-1990s. One treatment modality for opioid use disorder (OUD) is 
+medication-assisted treatment (MAT). As of 2022, only three pharmacotherapy 
+options have been approved by the Food and Drug Administration (FDA) for 
+treating OUD: buprenorphine, methadone, and naltrexone. Unlike buprenorphine and 
+naltrexone, methadone dispensing and administrating are restricted to opioid 
+treatment programs (OTPs). To date, Tennessee has no medication units, and 
+administration and dispensing of methadone is limited to licensed OTPs. This 
+review details the research process used to develop a policy draft for 
+medication units in Tennessee. This review is comprised of three parts: (1) a 
+rapid review aimed at identifying obstacles and facilitators to OTP access in 
+the US, (2) a descriptive analysis of Tennessee's geographic availability of 
+OTPs, pharmacies, and federally qualified health centers (FQHCs), and (3) policy 
+mapping of 21 US states' OTP regulations. In the rapid review, a total of 486 
+articles were imported into EndNote from PubMed and Embase. After removing 152 
+duplicates, 357 articles were screened based on their title and abstract. Thus, 
+34 articles underwent a full-text review to identify articles that addressed the 
+accessibility of methadone treatment for OUD. A total of 18 articles were 
+identified and analyzed. A descriptive analysis of Tennessee's availability of 
+OTP showed that the state has 22 OTPs. All 22 OTPs were matched to a county and 
+a region based on their address resulting in 15 counties (16%) and all three 
+regions having at least one OTP. A total of 260 FQHCs and 2294 pharmacies are in 
+Tennessee. Each facility was matched to a county based on its address resulting 
+in 70 counties (74%) having at least one FQHC and 94 counties (99%) having at 
+least one pharmacy. As of 31 December 2022, 17 states mentioned medication units 
+in their state-level OTP regulations. Utilizing the regulations for the eleven 
+states with medication units and federal guidelines, a policy draft was created 
+for Tennessee's medication units.","The number of overdose deaths involving opioids has increased yearly since the mid-1990s. To date, Tennessee has no medication units, and methadone dispensing and dispensing is limited to licensed OTPs. This review details the research process used to develop a policy draft for medication units in Tennessee. A total of 260 FQHCs and 2294 pharmacies are in Tennessee, with 70 counties (74%) having at least one FQ HC. As of 31 December 2022, 17 states mentioned medication units ophobicin their state-level OTP regulations.",0.852702081,0.574878693,0.649035215,0.150341686,0.153318078,0.792134831
+37736769,"Role of Mediterranean diet in the development and recurrence of meningiomas: a 
+narrative review.","Several studies through the years have proven how an unhealthy nutrition, 
+physical inactivity, sedentary lifestyle, obesity, and smoking represent 
+relevant risk factors in cancer genesis. This study aims to provide an overview 
+about the relationship between meningiomas and food assumption in the 
+Mediterranean diet and whether it can be useful in meningioma prevention or it, 
+somehow, can prevent their recurrence. The authors performed a wide literature 
+search in PubMed and Scopus databases investigating the presence of a 
+correlation between Mediterranean diet and meningiomas. The following MeSH and 
+free text terms were used: ""Meningiomas"" AND ""Diet"" and ""Brain tumors"" AND 
+""diet."" Databases' search yielded a total of 749 articles. After duplicate 
+removal, an abstract screening according to the eligibility criteria has been 
+performed and 40 articles were selected. Thirty-one articles were excluded 
+because they do not meet the inclusion criteria. Finally, a total of 9 articles 
+were included in this review. It is widely established the key and protective 
+role that a healthy lifestyle and a balanced diet can have against 
+tumorigenesis. Nevertheless, studies focusing exclusively on the Mediterranean 
+diet are still lacking. Thus, multicentric and/or prospective, randomized 
+studies are mandatory to better assess and determine the impact of food 
+assumptions in meningioma involvement.","This study aims to provide an overview about the relationship between meningiomas and food assumption in the Mediterranean diet. It is widely established the key and protective role that a healthy lifestyle and a balanced diet can have against cancer. However, studies focusing exclusively on the Mediterranean are still lacking. multicentric and/or prospective, randomized studies are mandatory to better assess and determine the impact of food                 assumptions in mening ioma involvement. The authors performed a wide literature                 search in PubMed and Scopus databases investigating the presence of a                 correlation between Mediterranean diet and menediomas.",0.940156758,0.755473137,0.768608093,0.215488215,0.271186441,0.793103448
+37736067,"Incorporating Genetic Testing Into the Care of Patients With Amyotrophic Lateral 
+Sclerosis/Frontotemporal Degeneration Spectrum Disorders.","PURPOSE OF REVIEW: Amyotrophic lateral sclerosis (ALS) and frontotemporal 
+degeneration (FTD) spectrum disorders have a strong genetic component. Genetic 
+counselors are a limited resource, and therefore, other providers must be 
+prepared to integrate genetic testing into their practice.
+RECENT FINDINGS: Recent ALS/FTD studies have demonstrated that lack of family 
+history does not preclude a genetic etiology. The benefits of a genetic 
+diagnosis have expanded to include the potential to treat; thus, genetic testing 
+is increasingly recommended to be offered to all persons with ALS/FTD.
+SUMMARY: Offering genetic testing to persons with ALS/FTD spectrum disorders 
+should be part of routine clinical neurologic care. All genetic testing should 
+include discussion about the medical and psychosocial implications of testing 
+for the patient and family members. Neurologists should be prepared to 
+facilitate this process and recognize when referral to a genetic counselor is 
+indicated.","Amyotrophic lateral sclerosis (ALS) and frontotemporal degeneration (FTD) spectrum disorders have a strong genetic component. Recent ALS/FTD studies have demonstrated that lack of family history does not preclude a genetic etiology. The benefits of a genetic diagnosis have expanded to include the potential to treat; thus, genetic testing is increasingly recommended to be offered to all persons with ALS/ FTD. All genetic testing should include discussion about the medical and psychosocial implications of testing for patient and family members.",0.920216978,0.744549334,0.769768715,0.260273973,0.32718894,0.45
+37735245,"The COVID-19 pandemic did not negatively impact frequency or continuity of 
+outpatient care in Alberta, Canada.","Outpatient care patterns have changed markedly during the COVID-19 pandemic. In 
+this population-based retrospective cohort study, we compared the frequency of 
+outpatient care (whether in-person or virtual) and continuity of care for all 
+community-dwelling adults in Alberta between March 1, 2019 and February 29, 2020 
+(pre-pandemic) versus March 1, 2020 to February 28, 2021 (pandemic). We 
+calculated provider continuity using Breslau's Usual Provider Continuity (UPC) 
+for patients with at least 2 outpatient encounters. In 2019-20, 594,350 (98.4%) 
+of 603,877 community-dwelling adults with ambulatory care sensitive conditions 
+(ACSC) had [Formula: see text] 1 outpatient visit (median 8 visits, mean UPC 
+score 0.61, SD 0.23), compared to 566,569 (98.6%) of 574,613 (median 8 visits, 
+mean UPC score 0.67, SD 0.23) during the first year of the pandemic. Similar 
+patterns were seen for adults without ACSC: 2,207,710 (93.9%) of 2,350,147 had 
+[Formula: see text] 1 outpatient visit (median 3 visits, mean UPC score 0.61, SD 
+0.24) pre-pandemic compared to 2,113,239 (93.5%, median 4 visits, mean UPC 0.67, 
+SD 0.24) in the first year of the pandemic. Thus, the COVID-19 pandemic did not 
+impact frequency of follow-up while continuity of care improved both for 
+patients with or without ACSC in Alberta, Canada.","In 2019-20, 594,350 (98.4%) of 603,877 community-dwelling adults with ambulatory care sensitive conditions (ACSC) had 1 outpatient visit (median 8 visits, mean UPC score 0.61, SD 0.23) during the first year of the pandemic. Similar patterns were seen for adults without ACSC. The COVID-19 pandemic did not impact frequency of follow-up while continuity of care improved.",0.812543094,0.708447456,0.838884413,0.18503937,0.198412698,0.732323232
+37734884,"Psychosocial patient perspectives following major lower-limb amputation due to 
+vascular aetiology: a protocol for a systematic meta-aggregation study.","INTRODUCTION: Persistent psychosocial problems in people with lower-limb 
+amputation due to vascular aetiology indicate a great need for long-lasting 
+holistic rehabilitation. An in-depth understanding of the psychosocial problems 
+is essential for the guidance of health professionals in meeting and normalising 
+patients' experiences and emotions. Furthermore, identifying the psychological 
+problems may help develop effective rehabilitation and counselling programmes. 
+This meta-aggregation study aims to explore the psychosocial perspectives of 
+individuals who have undergone a major lower-limb amputation due to vascular 
+aetiology during the post-discharge rehabilitation phase.
+METHODS AND ANALYSIS: A systematic meta-aggregation study will be performed to 
+identify full-text, peer-reviewed journal articles reporting on patients' 
+psychosocial perspectives on major lower-limb amputation due to vascular 
+aetiology from post-discharge to several years afterward. The databases Embase, 
+CINAHL Ultimate, APA PsycInfo, PubMed and Scopus will be searched with no 
+limitations regarding the publication year. Studies that satisfy the eligibility 
+criteria will be critically appraised using an acknowledged checklist and 
+synthesised using the Joanna Briggs Institute three-phase approach for the 
+synthesis of meta-aggregation studies. The GRADE-CERQual (Grading of 
+Recommendations Assessment, Development and Evaluation- Confidence in Evidence 
+from Reviews of Qualitative research) tool will be used to determine the level 
+of confidence in the qualitative evidence, and the PRISMA (Preferred Reporting 
+Items for Systematic Review and Meta-Analysis) reporting guidelines will be 
+followed throughout the review process.
+ETHICS AND DISSEMINATION: Ethical approval is not required for the study, as the 
+review is built on pre-existing available data in the literature. Findings from 
+the review will be disseminated through publication in a peer-review journal.
+PROSPERO REGISTRATION NUMBER: CRD42022377114.","Persistent psychosocial problems in people with lower-limb amputation due to vascular aetiology indicate a great need for long-lasting rehabilitation. A systematic meta-aggregation study will be performed to identify full-text, peer-reviewed journal articles reporting on patients' perspectives. Findings from the review will be disseminated through publication in a peer-review journal. Ethical approval is not required for the study, as the review is built on pre-existing available data in the literature.",0.910652936,0.845376492,0.872537196,0.167682927,0.187116564,0.768339768
+37734368,"Patient's views of empathic and compassionate healthcare interactions: A scoping 
+review.","BACKGROUND: Compassion and empathy are integral to safe and effective patient 
+care. However, to date, most studies have focused on exploring, defining, 
+measuring and analysing empathy and compassion from the perspective of 
+researchers or clinicians. There has been limited attention to the perspectives 
+of patients.
+OBJECTIVE: The objective of this scoping review was to map the literature to 
+identify patients' views of healthcare provider behaviours that exemplify 
+empathic and compassionate interactions.
+METHOD: This review used the Joanna Briggs Institute scoping review methodology. 
+A comprehensive search of eight electronic databases was conducted with English 
+language studies published in the last 10 years considered for inclusion.
+RESULTS: Database searching resulted in 459 records for initial screening. After 
+de-duplication and conducting a title and abstract review, 32 full-text articles 
+were screened for eligibility. A total of 14 studies met the inclusion criteria 
+and were critically reviewed using the Mixed Methods Appraisal Tool. The 
+included papers profiled studies that had been conducted in clinical settings 
+across seven countries. The healthcare encounters described in the papers were 
+with a range of healthcare providers. Two overarching and interconnected 
+categories of behaviours were identified as indicative of empathic/compassionate 
+encounters: (1) communication skills such as listening, touch, body language, 
+eye contact and positive demeanour; and (2) helping behaviours demonstrated by 
+small acts of kindness that go beyond routine healthcare.
+CONCLUSION: Given the breadth of studies describing the positive impact of 
+empathy/compassion on people's physical and psychosocial wellbeing, the results 
+from this review are valuable and shed new light on patients' views and 
+experiences. The results provide a deeper understanding of healthcare provider 
+behaviours that exemplify empathic and compassionate healthcare interactions and 
+can be used to inform the education and training of healthcare providers from 
+all disciplines.","Compassion and empathy are integral to safe and effective patient care. This review used the Joanna Briggs Institute scoping review methodology. The results provide a deeper understanding of healthcare provider behaviours that exemplify empathic and compassionate healthcare interactions. The research can be used to inform the education and training of healthcare providers from all disciplines. It also shed new light on patients' views and experiences. The study was published in the Journal of Empathy and Compassion, published by the British Medical Journal (BMJ). The BMJ is a peer-reviewed journal.",0.872530341,0.81152004,0.846647263,0.143236074,0.152,0.864583333
+37733512,"Poster Session: Fixational Eye Motion Measured with Tracking Scanning Laser 
+Ophthalmoscopy in ABI/TBI and Control Subjects.","This study compared fixational eye motion (FEM) in acquired/traumatic brain 
+injury (ABI/TBI) subjects presenting with clinical symptoms (reading text, 
+losing place while reading, words moving around the page, decreased reading 
+comprehension) to control subjects as measured with Tracking Scanning Laser 
+Ophthalmoscopy (TSLO). Six ABI/TBI subjects (4M, 2F) aged 29-62 and six control 
+subjects (4M, 2F) aged 23-42 participated in the study. A 5°x5° square 840nm 
+TSLO imaging raster was used to guide fixation in 3 conditions: upper right 
+corner (UR), freely in the center (CF), and a dot in the center (DOT). At least 
+three 10sec videos were collected for all subjects in both eyes for each 
+condition. Offline, custom MATLAB software was used to stabilize the videos, 
+extract eye motion at 480Hz, and extract FEM characteristics. Significant 
+differences were seen between the ABI/TBI and control subjects with t-test 
+analysis in all fixation conditions. Different Microsaccade and drift parameters 
+of FEM were found to be significantly different for the different conditions 
+with the number of Microsaccade reaching significance only for UR (p<0.001) and 
+Microsaccade amplitude and peak velocity only for CF (p<0.01). These results 
+demonstrate FEM measurements with TSLO in ABI/TBI subjects are different from 
+control and are highly variable between fixation tasks. This warrants further 
+exploration to determine the mechanisms behind oculomotor deficiency and to 
+guide future clinical treatments.","Study compared fixational eye motion (FEM) in acquired/traumatic brain injury (ABI/TBI) subjects to control subjects. FEM was measured with Tracking Scanning Laser Ophthalmoscopy (TSLO) Six ABI/tBI subjects (4M, 2F) aged 29-62 and six control                  subjects (4m, 2f) aged 23-42 participated in the study. Different Microsaccade and drift parameters of FEM were found to be significantly different for the different conditions.",0.906852424,0.752825797,0.818703651,0.157142857,0.158273381,0.772727273
+37733095,"Complement inhibitors in pediatric kidney diseases: new therapeutic 
+opportunities.","Historically, the complement system (classical, lectin, alternative, and 
+terminal pathways) is known to play a crucial role in the etiopathogenesis of 
+many kidney diseases. Direct or indirect activation in these settings is 
+revealed by consumption of complement proteins at the serum level and kidney 
+tissue deposition seen by immunofluorescence and electron microscopy. The advent 
+of eculizumab has shown that complement inhibitors may improve the natural 
+history of certain kidney diseases. Since then, the number of available 
+therapeutic molecules and experimental studies on complement inhibition has 
+increased exponentially. In our narrative review, we give a summary of the main 
+complement inhibitors that have completed phase II and phase III studies or are 
+currently used in adult and pediatric nephrology. The relevant full-text works, 
+abstracts, and ongoing trials (clinicaltrials.gov site) are discussed. Data and 
+key clinical features are reported for eculizumab, ravulizumab, crovalimab, 
+avacopan, danicopan, iptacopan, pegcetacoplan, and narsoplimab. Many of these 
+molecules have been shown to be effective in reducing proteinuria and 
+stabilizing kidney function in different complement-mediated kidney diseases. 
+Thanks to their efficacy and target specificity, these novel drugs may radically 
+improve the outcome of complement-mediated kidney diseases, contributing to an 
+improvement in our understanding of their underlying pathophysiology.","Historically, the complement system is known to play a crucial role in the etiopathogenesis of many kidney diseases. The advent of eculizumab has shown that complement inhibitors may improve the natural history of certain kidney disease. Many of these molecules have been shown to be effective in reducing proteinuria and stabilizing kidney function in different complement-mediated diseases. Thanks to their efficacy and target specificity, these novel drugs may radically improve the outcome of complement- mediated kidney diseases, contributing to an improvement in our understanding of their underlying pathophysiology.",0.923122168,0.801590741,0.794446528,0.209059233,0.273684211,0.577889447
+37732940,"Applied use of biomechanical measurements from human tissues for the development 
+of medical skills trainers: a scoping review.","OBJECTIVE: The objective of this review was to identify quantitative 
+biomechanical measurements of human tissues, the methods for obtaining these 
+measurements, and the primary motivations for conducting biomechanical research.
+INTRODUCTION: Medical skills trainers are a safe and useful tool for clinicians 
+to use when learning or practicing medical procedures. The haptic fidelity of 
+these devices is often poor, which may be because the synthetic materials chosen 
+for these devices do not have the same mechanical properties as human tissues. 
+This review investigates a heterogenous body of literature to identify which 
+biomechanical properties are available for human tissues, the methods for 
+obtaining these values, and the primary motivations behind conducting 
+biomechanical tests.
+INCLUSION CRITERIA: Studies containing quantitative measurements of the 
+biomechanical properties of human tissues were included. Studies that primarily 
+focused on dynamic and fluid mechanical properties were excluded. Additionally, 
+studies only containing animal, in silico, or synthetic materials were excluded 
+from this review.
+METHODS: This scoping review followed the JBI methodology for scoping reviews 
+and the Preferred Reporting Items for Systematic Reviews and Meta-Analysis 
+extension for Scoping Reviews (PRISMA-ScR). Sources of evidence were extracted 
+from CINAHL (EBSCO), IEEE Xplore, MEDLINE (PubMed), Scopus, and engineering 
+conference proceedings. The search was limited to the English language. Two 
+independent reviewers screened titles and abstracts as well as full-text 
+reviews. Any conflicts that arose during screening and full-text review were 
+mediated by a third reviewer. Data extraction was conducted by 2 independent 
+reviewers and discrepancies were mediated through discussion. The results are 
+presented in tabular, figure, and narrative formats.
+RESULTS: Data were extracted from a total of 186 full-text publications. All of 
+the studies, except for 1, were experimental. Included studies came from 33 
+different countries, with the majority of the studies coming from the United 
+States. Human tissues samples were ex vivo, and the most commonly studied tissue 
+type was musculoskeletal. In this study, nearly 200 unique biomechanical values 
+were reported, and the most commonly reported value was Young's (elastic) 
+modulus. The most common type of mechanical test performed was tensile testing, 
+and the most common reason for testing human tissues was to characterize 
+biomechanical properties. Although the number of published studies on 
+biomechanical properties of human tissues has increased over the past 20 years, 
+there are many gaps in the literature. Of the 186 included studies, only 7 used 
+human tissues for the design or validation of medical skills training devices. 
+Furthermore, in studies where biomechanical values for human tissues have been 
+obtained, a lack of standardization in engineering assumptions, methodologies, 
+and tissue preparation may implicate the usefulness of these values.
+CONCLUSIONS: This review is the first of its kind to give a broad overview of 
+the biomechanics of human tissues in the published literature. With respect to 
+high-fidelity haptics, there is a large gap in the published literature. Even in 
+instances where biomechanical values are available, comparing or using these 
+values is difficult. This is likely due to the lack of standardization in 
+engineering assumptions, testing methodology, and reporting of the results. It 
+is recommended that journals and/or experts in engineering fields conduct 
+further research to investigate the feasibility of implementing reporting 
+standards.
+REVIEW REGISTRATION: Open Science Framework osf.io/fgb34.","This review is the first of its kind to give a broad overview of the biomechanics of human tissues. Data were extracted from a total of 186 full-text publications. Of the 186 included studies, only 7 used human tissues for the design or validation of medical skills training devices. The most common type of mechanical test performed was tensile testing, and the most common reason for testing human tissues was to characterize their biomechanical properties. There is a large gap in the published literature with respect to haptic fidelity.",0.847116947,0.752025187,0.797018588,0.102106969,0.120325203,0.899621212
+37732536,"Machine Learning Algorithms Predict Long-Term Postoperative Opioid Misuse: A 
+Systematic Review.","INTRODUCTION: A steadily rising opioid pandemic has left the US suffering 
+significant social, economic, and health crises. Machine learning (ML) domains 
+have been utilized to predict prolonged postoperative opioid (PPO) use. This 
+systematic review aims to compile all up-to-date studies addressing such 
+algorithms' use in clinical practice.
+METHODS: We searched PubMed/MEDLINE, EMBASE, CINAHL, and Web of Science using 
+the keywords ""machine learning,"" ""opioid,"" and ""prediction."" The results were 
+limited to human studies with full-text availability in English. We included all 
+peer-reviewed journal articles that addressed an ML model to predict PPO use by 
+adult patients.
+RESULTS: Fifteen studies were included with a sample size ranging from 381 to 
+112898, primarily orthopedic-surgery-related. Most authors define a prolonged 
+misuse of opioids if it extends beyond 90 days postoperatively. Input variables 
+ranged from 9 to 23 and were primarily preoperative. Most studies developed and 
+tested at least two algorithms and then enhanced the best-performing model for 
+use retrospectively on electronic medical records. The best-performing models 
+were decision-tree-based boosting algorithms in 5 studies with AUC ranging from 
+.81 to .66 and Brier scores ranging from .073 to .13, followed second by 
+logistic regression classifiers in 5 studies. The topmost contributing variable 
+was preoperative opioid use, followed by depression and antidepressant use, age, 
+and use of instrumentation.
+CONCLUSIONS: ML algorithms have demonstrated promising potential as a 
+decision-supportive tool in predicting prolonged opioid use in post-surgical 
+patients. Further validation studies would allow for their confident 
+incorporation into daily clinical practice.","Machine learning (ML) domains have been utilized to predict prolonged postoperative opioid (PPO) use. The best-performing models were decision-tree-based boosting algorithms in 5 studies. The topmost contributing variable was preoperative opioid use, followed by depression and antidepressant use, age, and use of instrumentation. ML algorithms have demonstrated promising potential as a decision-supportive tool in predicting prolonged opioid use in post-surgical patients. Further validation studies would allow for their confident incorporation into daily clinical practice.",0.912077725,0.750563204,0.784693718,0.198113208,0.224683544,0.696721311
+37732430,"An economic evaluation of pit and fissure sealants and fluoride varnishes in 
+preventing dental caries: a systematic review.","The aim was to systematically evaluate the cost-effectiveness of pit and fissure 
+sealants (PFSs) compared with that of fluoride varnishes (FVs) in dental caries 
+prevention. We searched four electronic databases including the Cochrane Oral 
+Health Group's Trials Register (till 03 June 2022), Web of Science (from 1945 to 
+03 June 2022), PubMed (from 1996 to 03 June 2022), and EMBASE via Ovid (from 
+1980 to 03 June 2022) to identify the cost and effectiveness of PFSs and FVs in 
+decreasing dental caries incidence. Two researchers independently screened 
+search results, extracted data from the included studies, and conducted the risk 
+of bias assessments. The main characteristics of the included studies were 
+extracted and analyzed. The initial search produced 874 articles. After removing 
+duplicates and full-text review, 19 studies were included. In this study: nine 
+studies were on PFSs comparison with control; five on PFSs comparison with FVs; 
+and five on FVs comparison with control. Regarding the type of economic 
+evaluation (EE), 13 studies conducted cost-effectiveness analysis, five 
+conducted cost-utility analyses, and one conducted both cost-effectiveness 
+analysis and cost-utility analyses. The cost-effectiveness evaluation of PFSs 
+and FVs in the available studies was limited. The prevalence of dental caries, 
+payers' willingness to pay, length of follow-ups, delivery settings, retention 
+rate of PFS, and application intervals of FV can affect the economic evaluation 
+of these two methods for dental caries prevention. Therefore, more studies in 
+the future are need to draw clear conclusions about which method is more 
+cost-effective for the two preventive interventions in future.",The aim was to systematically evaluate the cost-effectiveness of pit and fissure                 sealants (PFSs) compared with that of fluoride varnishes (FVs) in dental caries prevention. We searched four electronic databases including the Cochrane Oral                 Health Group's Trials Register (till 03 June 2022) and Web of Science. The main characteristics of the included studies were analyzed. More studies in the future are need to draw clear conclusions about which method is more cost-effective.,0.892595112,0.709746718,0.75335145,0.179012346,0.195652174,0.73015873
+37732372,Research Progress and New Perspectives of Anticancer Effects of Emodin.,"Emodin is a natural compound found in several traditional Chinese medicines, 
+including Rheum palmatum and Polygonum cuspidatum. Recent studies have shown 
+that emodin exhibits potent anticancer effects against a variety of cancer 
+types, including liver, breast, lung, and colon cancer. Emodin's anticancer 
+effects are mediated through several mechanisms, including inhibition of cell 
+proliferation, induction of apoptosis, and suppression of tumor angiogenesis and 
+metastasis. In this review, we provide an overview of recent research progress 
+and new perspectives on emodin's anticancer effect. We summarize the current 
+understanding of the molecular mechanisms underlying emodin's anticancer 
+activity, including its effects on signaling pathways such as the PI3K/Akt, 
+MAPK, and NF-[Formula: see text]B pathways. We also discuss the potential of 
+emodin as a therapeutic agent for cancer treatment, including its use in 
+combination with conventional chemotherapeutic drugs and as a sensitizer for 
+radiotherapy. Furthermore, we highlight recent advances in the development of 
+emodin derivatives and their potential as novel anticancer agents. Finally, we 
+discuss the challenges and opportunities for the translation of emodin's 
+anticancer properties into clinical applications, including the need for further 
+preclinical and clinical studies to evaluate its safety and efficacy. In 
+conclusion, emodin represents a promising natural compound with potent 
+anticancer properties, and its potential as a therapeutic agent for cancer 
+treatment warrants further investigation. This review provides a comprehensive 
+overview of the current research progress and new perspectives on emodin's 
+anticancer effects, which may facilitate the development of novel therapeutic 
+strategies for cancer treatment.","Emodin is a natural compound found in several traditional Chinese medicines. Recent studies have shown that emodin exhibits potent anticancer effects against a variety of cancer types. This review provides a comprehensive overview of the current research progress and new perspectives on Emodin's anticancer effect. It may facilitate the development of novel therapeutic strategies for cancer treatment. The need for further clinical and clinical studies to evaluate its safety and efficacy warrants further investigation, the authors conclude. The study was published in the Journal of Cancer Research.",0.830633461,0.713567436,0.784129262,0.166163142,0.182370821,0.774590164
+37730648,"Intrinsic variables associated with low back pain and lumbar spine injury in 
+fast bowlers in cricket: a systematic review.","BACKGROUND: Lumbar spine injuries in fast bowlers account for the greatest 
+missed playing time in cricket. A range of extrinsic and intrinsic variables are 
+hypothesised to be associated with low back pain and lumbar spine injury in fast 
+bowlers, and an improved understanding of intrinsic variables is necessary as 
+these may alter load tolerance and injury risk associated with fast bowling. 
+This review critically evaluated studies reporting intrinsic variables 
+associated with low back pain and lumbar spine injury in fast bowlers and 
+identified areas for future investigation.
+METHODS: OVID Medline, EMBASE, SPORTDiscus, CINAHL, Web of Science and SCOPUS 
+databases were last searched on 3 June 2022 to identify studies investigating 
+intrinsic variables associated with low back pain and lumbar spine injury in 
+cricket fast bowlers. Terms relevant to cricket fast bowling, and intrinsic 
+variables associated with lumbar spine injury and low back pain in fast bowlers 
+were searched. 1,503 abstracts were screened, and 118 full-text articles were 
+appraised to determine whether they met inclusion criteria. Two authors 
+independently screened search results and assessed risk of bias using a modified 
+version of the Quality in Prognostic Studies tool.
+RESULTS: Twenty-five studies met the inclusion criteria. Overall, no included 
+studies demonstrated a low risk of bias, two studies were identified as moderate 
+risk, and twenty-three studies were identified as high risk. Conflicting results 
+were reported amongst studies investigating associations of fast bowling 
+kinematics and kinetics, trunk and lumbar anatomical features, anthropometric 
+traits, age, and neuromuscular characteristics with low back pain and lumbar 
+spine injury.
+CONCLUSION: Inconsistencies in results may be related to differences in study 
+design, injury definitions, participant characteristics, measurement parameters, 
+and statistical analyses. Low back pain and lumbar spine injury occurrence in 
+fast bowlers remain high, and this may be due to an absence of low bias studies 
+that have informed recommendations for their prevention. Future research should 
+employ clearly defined injury outcomes, analyse continuous datasets, utilise 
+models that better represent lumbar kinematics and kinetics during fast bowling, 
+and better quantify previous injury, lumbar anatomical features and lumbar 
+maturation.
+TRIAL REGISTRATION: Open Science Framework https://doi.org/10.17605/OSF.IO/ERKZ2 
+.","Lumbar spine injuries in fast bowlers account for the greatest                 missed playing time in cricket. An improved understanding of intrinsic variables is necessary as these may alter load tolerance and injury risk associated with fast bowling. 1,503 abstracts were screened, and 118 full-text articles were raised to determine whether they met inclusion criteria. Conflicting results were reported amongst studies investigating associations of fast bowling, trunk and lumbar anatomical features, age, and neuromuscular characteristics.",0.879034221,0.74752748,0.770788074,0.145584726,0.151079137,0.800578035
+37730533,"Network meta-analysis of adjuvant treatments for patients with hepatocellular 
+carcinoma after curative resection.","PURPOSE: The prevention of recurrence for patients with hepatocellular carcinoma 
+after curative resection is still a great challenge in clinical practice. There 
+are numerous studies that trying to search for favorable strategies to decrease 
+the recurrence and prolong life span for these patients, whereas no consensus is 
+reached till now. Herein, we aim to compare the efficacy between different 
+reported treatments by network meta-analysis(NMA).
+METHODS: We searched Pubmed, Web of Science and Cochrane Library for abstracts 
+and full-text articles published from database inception through February 2023. 
+All of the random controlled trials(RCTs) were evaluated and collected as 
+eligible studies. The primary outcome was the prevention of recurrence between 
+different procedures. The second outcomes were one-year survival, three-year 
+survival and five-year survival.
+RESULTS: Thirty-two RCTs including 5783 patients were selected, and 12 
+treatments were classified. Most of the studies were high quality with low bias. 
+Thirty-one studies including 5629 patients were recruited for recurrence 
+analysis. The network meta-analysis showed benefits from transarterial 
+chemoembolization(TACE) + portal vein chemotherapy(PVC)[OR, 2.84 (1.15,6.99)] 
+and internal radiotherapy(IRT) [OR, 2.63 (1.41,4.91)] compared to 
+non-adjuvant(NA) treatment when considering prevention of recurrence. Seventeen 
+studies including 2047 patients were collected for one-year survival analysis. 
+The network meta-analysis showed benefit from TACE[OR, 0.33 (0.14,0.75)] when 
+considering one-year survival. Twenty-one studies including 2463 patients were 
+collected for three-year survival analysis. The network meta-analysis showed 
+TACE [OR, 0.51 (0.30,0.86)], IRT[OR, 0.41 (0.20,0.83)] and dendritic cell(DC) 
+[OR, 0.09 (0.01,0.98)] were better than NA when considering three-year survival. 
+Sixteen studies including 1915 patients were collected for five-year survival 
+analysis. The network meta-analysis didn't show any benefit from different 
+treatments when considering five-year survival. Other strategies including 
+external radiotherapy(ERT), branched-chain amino acids(BCAA), hepatic artery 
+infusion chemotherapy(HAIC), cytokine-induced killer(CIK), adoptive 
+immunotherapy(AIT), Huaier, interferon(IFN), oral chemotherapy(OCT) and 
+sorafenib(SOR) didn't show significant benefit regardless of prevention of 
+recurrence or short-, long- time survival.
+CONCLUSION: This NMA found that TACE + PVC and IRT were considered as the 
+procedures to decrease HCC recurrence rate. TACE, IRT and DC were preferred when 
+considering the extending of life span for post-operative patients with 
+HCC. Large scale of RCTs are needed to verify it.","The prevention of recurrence for patients with hepatocellular carcinoma is still a great challenge in clinical practice. There are numerous studies that trying to search for favorable strategies to decrease the recurrence and prolong life span for these patients. Herein, we aim to compare the efficacy between different reported treatments by network meta-analysis(NMA) Most of the studies were high quality with low bias. TACE, IRT and DC were preferred when  reviewing the extending of life span.",0.79973942,0.756945789,0.799820602,0.133489461,0.155294118,0.794871795
+37730394,"Modelling the transmission of dengue, zika and chikungunya: a scoping review 
+protocol.","INTRODUCTION: Aedes mosquitoes are the primary vectors for the spread of viruses 
+like dengue (DENV), zika (ZIKV) and chikungunya (CHIKV), all of which affect 
+humans. Those diseases contribute to global public health issues because of 
+their great dispersion in rural and urban areas. Mathematical and statistical 
+models have become helpful in understanding these diseases' epidemiological 
+dynamics. However, modelling the complexity of a real phenomenon, such as a 
+viral disease, should consider several factors. This scoping review aims to 
+document, identify and classify the most important factors as well as the 
+modelling strategies for the spread of DENV, ZIKV and CHIKV.
+METHODS AND ANALYSIS: We will conduct searches in electronic bibliographic 
+databases such as PubMed, MathSciNet and the Web of Science for full-text 
+peer-reviewed articles written in English, French and Spanish. These articles 
+should use mathematical and statistical modelling frameworks to study dengue, 
+zika and chikungunya, and their cocirculation/coinfection with other diseases, 
+with a publication date between 1 January 2011 and 31 July 2023. Eligible 
+studies should employ deterministic, stochastic or statistical modelling 
+approaches, consider control measures and incorporate parameters' estimation or 
+considering calibration/validation approaches. We will exclude articles focusing 
+on clinical/laboratory experiments or theoretical articles that do not include 
+any case study. Two reviewers specialised in zoonotic diseases and 
+mathematical/statistical modelling will independently screen and retain relevant 
+studies. Data extraction will be performed using a structured form, and the 
+findings of the study will be summarised through classification and descriptive 
+analysis. Three scoping reviews will be published, each focusing on one disease 
+and its cocirculation/co-infection with other diseases.
+ETHICS AND DISSEMINATION: This protocol is exempt from ethics approval because 
+it is carried out on published manuscripts and without the participation of 
+humans and/or animals. The results will be disseminated through peer-reviewed 
+publications and presentations in conferences.","Aedes mosquitoes are the primary vectors for the spread of viruses like dengue, zika and chikungunya. Mathematical and statistical models have become helpful in understanding these diseases' epidemiological dynamics. However, modelling the complexity of a real phenomenon, such as a virus, should consider several factors. This scoping review aims to document, identify and classify the most important factors as well as the modelling strategies for spread of DENV, ZIKV and CHIKV.",0.83691752,0.7319327,0.795758307,0.147138965,0.17260274,0.77027027
+37730391,Incidence of vasa praevia: a systematic review and meta-analysis.,"OBJECTIVES: To derive accurate estimates of the incidence of vasa praevia (VP) 
+in a routine population of unselected pregnancies.
+DESIGN: Systematic review and meta-analysis.
+DATA SOURCES: A search of MEDLINE, EMBASE, CINAHL and the Cochrane database was 
+performed to review relevant citations reporting outcomes in pregnancies with VP 
+from January 2000 until 5 April 2023.
+ELIGIBILITY CRITERIA FOR SELECTION OF STUDIES: Prospective or retrospective 
+cohort or population studies that provided data regarding VP cases in routine 
+unselected pregnancies during the study period. We included studies published in 
+the English language after the year 2000 to reflect contemporary obstetric and 
+neonatal practice.
+DATA EXTRACTION AND SYNTHESIS: Two reviewers independently screened the 
+retrieved citations and extracted data. The methodological quality of studies 
+was assessed using the Newcastle-Ottawa Scale, and Preferred Reporting Items for 
+Systematic reviews and Meta-Analyses was used to ensure standardised reporting 
+of studies.
+RESULTS: A total of 3847 citations were screened and 82 full-text manuscripts 
+were retrieved for analysis. There were 24 studies that met the inclusion 
+criteria, of which 12 studies reported prenatal diagnosis with a systematic 
+protocol of screening. There were 1320 pregnancies with VP in a total population 
+of 2 278 561 pregnancies; the weighted pooled incidence of VP was 0.79 (95% CI: 
+0.59 to 1.01) per 1000 pregnancies, corresponding to 1 case of VP per 1271 (95% 
+CI: 990 to 1692) pregnancies. Nested subanalysis of studies reporting screening 
+for VP based on a specific protocol identified 395 pregnancies with VP in a 
+population of 732 654 pregnancies with weighted pooled incidence of 0.82 (95% 
+CI: 0.53 to 1.18) per 1000 pregnancies (1 case of VP per 1218 (95% CI: 847 to 
+1901) pregnancies).
+CONCLUSION: The incidence of VP in unselected pregnancies is 1 in 1218 
+pregnancies. This is higher than is previously reported and can be used as a 
+basis to assess whether screening for this condition should be part of routine 
+clinical practice. Incorporation of strategies to screen for VP in routine 
+clinical practice is likely to prevent 5% of stillbirths.
+PROSPERO REGISTRATION NUMBER: CRD42020125495.","The incidence of vasa praevia (VP) in unselected pregnancies is 1 in 1218 pregnancies. This is higher than is previously reported and can be used to assess whether screening for VP should be part of routine clinical practice. Incorporation of strategies to screen for VP in routine obstetric and neonatal practice is likely to prevent 5% of stillbirths, according to the authors. The authors conclude that screening forVP should be a part of standard obstetric or neonatal care.",0.83879596,0.663026035,0.721493304,0.110047847,0.125,0.9
+37730384,Young people's opinions of cancer care in England: the BRIGHTLIGHT cohort.,"OBJECTIVES: The BRIGHTLIGHT cohort study was the national evaluation of cancer 
+services for teenager and young adults (TYA). This was analysis of free-text 
+survey data to better understand their experiences of cancer care.
+DESIGN: Cohort study SETTING: National Health Service hospitals delivering 
+cancer care in England PARTICIPANTS: 830 young people newly diagnosed with 
+cancer.
+INTERVENTIONS: Exposure to specialist care in the first 6 months after diagnosis 
+defined as care in a TYA Principal Treatment Centre (PTC). This was categorised 
+as follows: all care in a TYA-PTC (ALL-TYA-PTC), no care in a TYA-PTC 
+(NO-TYA-PTC) so care delivered in a children/adult unit only and some care in a 
+TYA-PTC with additional care in a children's/adult unit (SOME-TYA-PTC).
+PRIMARY OUTCOME: Data were collected through the BRIGHTLIGHT survey included 
+free-text questions which asked patients 'what was the best aspects of their 
+experiences of care' and 'what aspects could be improved'. These comments were 
+analysed using content analysis. Themes were compared between categories of 
+care, then ranked in order of frequency, ranging from the most endorsed to the 
+least.
+RESULTS: Overall, young people were most positive about their healthcare team, 
+while the area highlighted for improvement was diagnostic experience. 
+Differences between the three groups suggested those who had some or all 
+treatment in a TYA-PTC valued the place of care. Regardless of where TYA were 
+treated their healthcare teams were favourably viewed. Age appropriate place of 
+care was highlighted to be of value for those in PTCs.
+CONCLUSIONS: These data show the value young people placed on the care they 
+received in TYA specific wards. Young people who accessed some or all of their 
+care in a TYA-PTC highly endorsed their place of care as one of the best 
+elements of their care, and it is further emphasised by those who had shared 
+care who experienced difficulty with lack of age-appropriate care when treated 
+outside the TYA-PTC.","The BRIGHTLIGHT cohort study was the national evaluation of cancer services for teenager and young adults (TYA) Data were collected through a free-text survey which asked patients 'what was the best aspects of their experiences of care' and 'what aspects could be improved' Overall, young people were most positive about their healthcare team, while the area highlighted for improvement was diagnostic experience. Regardless of where TYA were treated their healthcare teams were favourably viewed. Age appropriate place of care was highlighted to be of value for those in PTCs.",0.888807833,0.72393018,0.835236669,0.157107232,0.195488722,0.727564103
+37729838,"Contrastive diagnostic embedding (CDE) model for automated coding - A case study 
+using emergency department encounters.","BACKGROUND: Billing codes are utilized for medical reimbursement, clinical 
+quality metric valuation and for epidemiologic purposes to report and follow 
+disease trends and outcomes. The current paradigm of manual coding can be 
+expensive, time-consuming, and subject to human error. Though automation of the 
+billing codes has been widely reported in the literature via rule-based and 
+supervised approaches, existing strategies lack generalizability and robustness 
+towards large and constantly changing ICD hierarchical structure.
+METHOD: We propose a weakly supervised training strategy by leveraging 
+contrastive learning, contrastive diagnosis embedding (CDE) to capture the fine 
+semantic variations between the diagnosis codes. The approach consists of a 
+two-phase contrastive training for generating the semantic embedding space 
+adapted to incorporate hierarchical information of ICD-10 vocabulary and a 
+weakly supervised retrieval scheme. Core strength of the proposed method is that 
+it puts no limit on the 70 K ICD-10 codes set and can handle all rare codes for 
+coding the diagnosis.
+RESULTS: Our CDE model outperformed string-based partial matching and 
+ClinicalBERT embedding on three test cases (a retrospective testset, a 
+prospective testset, and external testset) and produced an accurate prediction 
+of rare and newly introduced diagnosis codes. A detailed ablation study showed 
+the importance of each phase of the proposed multi-phase training. Each 
+successive phase of training - ICD-10 group sensitive training (phase 1.1), 
+ICD-10 subgroup sensitive training (phase 1.2), free-text diagnosis 
+description-based training (phase 2) - improved performance beyond the previous 
+phase of training. The model also outperformed existing supervised models like 
+CAML and PLM-ICD and produced satisfactory performance on the rare codes.
+CONCLUSION: Compared to the existing rule-based and supervised models, the 
+proposed weakly supervised contrastive learning overcomes the limitations in 
+terms of generalization capability and increases the robustness of the automated 
+billing. Such a model will allow flexibility through accurate billing code 
+automation for practice convergence and gains efficiencies in a value-based care 
+payment environment.","The current paradigm of manual coding can be expensive, time-consuming, and subject to human error. We propose a weakly supervised training strategy by leveraging contrastive diagnosis embedding. The approach consists of a two-phase contrastive training for generating the semantic embedding space. The model outperformed string-based partial matching and ClinicalBERT embedding on three test cases. Such a model will allow flexibility through accurate billing code                 automation for practice convergence and gains efficiencies in a value-based care environment.",0.871236265,0.723112702,0.830578387,0.15503876,0.174025974,0.768488746
+37728984,"Suicide Risk Assessments Through the Eyes of ChatGPT-3.5 Versus ChatGPT-4: 
+Vignette Study.","BACKGROUND: ChatGPT, a linguistic artificial intelligence (AI) model engineered 
+by OpenAI, offers prospective contributions to mental health professionals. 
+Although having significant theoretical implications, ChatGPT's practical 
+capabilities, particularly regarding suicide prevention, have not yet been 
+substantiated.
+OBJECTIVE: The study's aim was to evaluate ChatGPT's ability to assess suicide 
+risk, taking into consideration 2 discernable factors-perceived burdensomeness 
+and thwarted belongingness-over a 2-month period. In addition, we evaluated 
+whether ChatGPT-4 more accurately evaluated suicide risk than did ChatGPT-3.5.
+METHODS: ChatGPT was tasked with assessing a vignette that depicted a 
+hypothetical patient exhibiting differing degrees of perceived burdensomeness 
+and thwarted belongingness. The assessments generated by ChatGPT were 
+subsequently contrasted with standard evaluations rendered by mental health 
+professionals. Using both ChatGPT-3.5 and ChatGPT-4 (May 24, 2023), we executed 
+3 evaluative procedures in June and July 2023. Our intent was to scrutinize 
+ChatGPT-4's proficiency in assessing various facets of suicide risk in relation 
+to the evaluative abilities of both mental health professionals and an earlier 
+version of ChatGPT-3.5 (March 14 version).
+RESULTS: During the period of June and July 2023, we found that the likelihood 
+of suicide attempts as evaluated by ChatGPT-4 was similar to the norms of mental 
+health professionals (n=379) under all conditions (average Z score of 0.01). 
+Nonetheless, a pronounced discrepancy was observed regarding the assessments 
+performed by ChatGPT-3.5 (May version), which markedly underestimated the 
+potential for suicide attempts, in comparison to the assessments carried out by 
+the mental health professionals (average Z score of -0.83). The empirical 
+evidence suggests that ChatGPT-4's evaluation of the incidence of suicidal 
+ideation and psychache was higher than that of the mental health professionals 
+(average Z score of 0.47 and 1.00, respectively). Conversely, the level of 
+resilience as assessed by both ChatGPT-4 and ChatGPT-3.5 (both versions) was 
+observed to be lower in comparison to the assessments offered by mental health 
+professionals (average Z score of -0.89 and -0.90, respectively).
+CONCLUSIONS: The findings suggest that ChatGPT-4 estimates the likelihood of 
+suicide attempts in a manner akin to evaluations provided by professionals. In 
+terms of recognizing suicidal ideation, ChatGPT-4 appears to be more precise. 
+However, regarding psychache, there was an observed overestimation by ChatGPT-4, 
+indicating a need for further research. These results have implications 
+regarding ChatGPT-4's potential to support gatekeepers, patients, and even 
+mental health professionals' decision-making. Despite the clinical potential, 
+intensive follow-up studies are necessary to establish the use of ChatGPT-4's 
+capabilities in clinical practice. The finding that ChatGPT-3.5 frequently 
+underestimates suicide risk, especially in severe cases, is particularly 
+troubling. It indicates that ChatGPT may downplay one's actual suicide risk 
+level.","ChatGPT, a linguistic artificial intelligence (AI) model, offers prospective contributions to mental health professionals. ChatGPT was tasked with assessing a vignette that depicted a hypothetical patient exhibiting differing degrees of perceived burdensomeness and thwarted belongingness. The findings suggest that ChatG PT-4 estimates the likelihood of suicide attempts in a manner akin to evaluations provided by professionals. However, regarding psychache, there was an observed overestimation by ChatGpt-4, indicating a need for further research.",0.84112376,0.730672538,0.838837385,0.117171717,0.125760649,0.841607565
+37728864,"Alzheimer's Disease: Novel Targets and Investigational Drugs for Disease 
+Modification.","Novel agents addressing non-amyloid, non-tau targets in Alzheimer's Disease (AD) 
+comprise 70% of the AD drug development pipeline of agents currently in clinical 
+trials. Most of the target processes identified in the Common Alzheimer's 
+Disease Research Ontology (CADRO) are represented by novel agents in trials. 
+Inflammation and synaptic plasticity/neuroprotection are the CADRO categories 
+with the largest number of novel candidate therapies. Within these categories, 
+there are few overlapping targets among the test agents. Additional categories 
+being evaluated include apolipoprotein E [Formula: see text] 4 (APOE4) effects, 
+lipids and lipoprotein receptors, neurogenesis, oxidative stress, bioenergetics 
+and metabolism, vascular factors, cell death, growth factors and hormones, 
+circadian rhythm, and epigenetic regulators. We highlight current drugs being 
+tested within these categories and their mechanisms. Trials will be informative 
+regarding which targets can be modulated to produce a slowing of clinical 
+decline. Possible therapeutic combinations of agents may be suggested by trial 
+outcomes. Biomarkers are evolving in concert with new targets and novel agents, 
+and biomarker outcomes offer a means of supporting disease modification by the 
+putative treatment. Identification of novel targets and development of 
+corresponding therapeutics offer an important means of advancing new treatments 
+for AD.","Most of the target processes identified in the Common Alzheimer's Disease Research Ontology (CADRO) are represented by novel agents in trials. Inflammation and synaptic plasticity/neuroprotection are the CADRO categories with the largest number of novel candidate therapies. Additional categories being evaluated include apolipoprotein E (APOE4) effects, neurogenesis, oxidative stress, bioenergetics, vascular factors, cell death, growth factors and hormones. Trials will be informative about which targets can be modulated to produce a slowing of clinical clinical decline.",0.948974192,0.781404436,0.815834165,0.226765799,0.243445693,0.632124352
+37728085,"TRPM8 as a Potential Biomarker and Therapeutic Target for Gastric Cancer 
+Identified by a Combination of Text Mining and RNA Sequencing.","INTRODUCTION: Gastric cancer is a well-known malignant tumor that causes 
+millions of deaths worldwide every year. Due to the lack of a specific biomarker 
+for gastric cancer, most patients are diagnosed at an advanced stage of the 
+disease which results in a poor prognosis and a higher death rate. Therefore, 
+novel biomarkers are urgently needed for early diagnosis and to improve the 
+survival rate.
+METHODS: In this study, we conducted RNA sequencing of tumor samples from 21 
+patients with gastric cancer. A total of 3192 differentially expressed genes 
+(1589 up-regulated and 1603 down-regulated) were identified. Subsequently, we 
+applied a text-mining algorithm for further analysis of these data and selected 
+30 representative genes to investigate as candidates for novel biomarkers in 
+gastric cancer.
+RESULTS: Among these genes, we confirmed transient receptor potential melastatin 
+8 channels (TRPM8) as a novel biomarker based on Western blot and 
+immunochemistry validation performed on 134 samples. Compared to normal gastric 
+tissue, the tumor tissues exhibited a significantly higher expression level of 
+TRPM8.
+CONCLUSION: This study provides insights into the underlying role of TRPM8 in 
+cell proliferation. In addition, TRPM8 may be used as a potential therapeutic 
+target for patients with gastric cancer.","Gastric cancer is a well-known malignant tumor that causes millions of deaths worldwide every year. Most patients are diagnosed at an advanced stage of the disease, which results in a poor prognosis and a higher death rate. Novel biomarkers are urgently needed for early diagnosis and to improve the survival rate. We confirmed transient receptor potential melastatin 8 channels (TRPM8) as a novel biomarker based on Western blot and immunochemistry validation performed on 134 samples.",0.86751014,0.761465669,0.836983383,0.225092251,0.24535316,0.637755102
+37727285,"Data-driven digital health technologies in the remote clinical care of diabetic 
+foot ulcers: a scoping review.","BACKGROUND: The availability and effectiveness of Digital Health Technologies 
+(DHTs) to support clinicians, empower patients, and generate economic savings 
+for national healthcare systems are growing rapidly. Of particular promise is 
+the capacity of DHTs to autonomously facilitate remote monitoring and treatment. 
+Diabetic Foot Ulcers (DFUs) are characterised by high rates of infection, 
+amputation, mortality, and healthcare costs. With clinical outcomes contingent 
+on activities that can be readily monitored, DFUs present a promising focus for 
+the application of remote DHTs.
+OBJECTIVE: This scoping review has been conducted as a first step toward 
+ascertaining fthe data-related challenges and opportunities for the development 
+of more comprehensive, integrated, and individualised sense/act DHTs. We review 
+the latest developments in the application of DHTs to the remote care of DFUs. 
+We cover the types of DHTs in development and their features, technological 
+readiness, and scope of clinical testing.
+ELIGIBILITY CRITERIA: Only peer-reviewed original experimental and observational 
+studies, case series and qualitative studies were included in literature 
+searches. All reviews and manuscripts presenting pre-trial prototype 
+technologies were excluded.
+METHODS: An initial search of three databases (Web of Science, MEDLINE, and 
+Scopus) generated 1,925 English-language papers for screening. 388 papers were 
+assessed as eligible for full-text screening by the review team. 81 manuscripts 
+were found to meet the eligibility criteria.
+RESULTS: Only 19% of studies incorporated multiple DHTs. We categorised 56% of 
+studies as 'Treatment-Manual', i.e. studies involving technologies aimed at 
+treatment requiring manual data generation, and 26% as 'Prevention-Autonomous', 
+i.e. studies of technologies generating data autonomously through wearable 
+sensors aimed at ulcer prevention through patient behavioural change. Only 10% 
+of studies involved more ambitious 'Treatment-Autonomous' interventions. We 
+found that studies generally reported high levels of patient adherence and 
+satisfaction.
+CONCLUSIONS: Our findings point to a major potential role for DHTs in remote 
+personalised medical management of DFUs. However, larger studies are required to 
+assess their impact. Here, we see opportunities for developing much larger, more 
+comprehensive, and integrated monitoring and decision support systems with the 
+potential to address the disease in a more complete context by capturing and 
+integrating data from multiple sources from subjective and objective 
+measurements.","Diabetic Foot Ulcers (DFUs) are characterised by high rates of infection, mortality, and healthcare costs. With clinical outcomes contingent on activities that can be readily monitored, DFUs present a promising focus for the application of remote DHTs. Only 19% of studies incorporated multiple D HTs. We see opportunities for developing much larger, more.comprehensive, and integrated monitoring and decision support systems with the.potential to address the disease in a more complete context.",0.859303355,0.765148938,0.831257522,0.139810427,0.14047619,0.811965812
+37726874,"Advances in oligosaccharides production from brown seaweeds: extraction, 
+characterization, antimetabolic syndrome, and other potential applications.","Brown seaweeds are a promising source of bioactive substances, particularly 
+oligosaccharides. This group has recently gained considerable attention due to 
+its diverse cell wall composition, structure, and wide-spectrum bioactivities. 
+This review article provides a comprehensive update on advances in 
+oligosaccharides (OSs) production from brown seaweeds and their potential health 
+applications. It focuses on advances in feedstock pretreatment, extraction, 
+characterization, and purification prior to OS use for potential health 
+applications. Brown seaweed oligosaccharides (BSOSs) are extracted using various 
+methods. Among these, enzymatic hydrolysis is the most preferred, with high 
+specificity, mild reaction conditions, and low energy consumption. However, the 
+enzyme selection and hydrolysis conditions need to be optimized for desirable 
+yield and oligosaccharides composition. Characterization of oligosaccharides is 
+essential to determine their structure and properties related to bioactivities 
+and to predict their most suitable application. This is well covered in this 
+review. Analytical techniques such as high-performance liquid chromatography 
+(HPLC), gas chromatography (GC), and nuclear magnetic resonance (NMR) 
+spectroscopy are commonly applied to analyze oligosaccharides. BSOSs exhibit a 
+range of biological properties, mainly antimicrobial, anti-inflammatory, and 
+prebiotic properties among others. Importantly, BSOSs have been linked to 
+possible health advantages, including metabolic syndrome management. Metabolic 
+syndrome is a cluster of conditions, such as obesity, hypertension, and 
+dyslipidemia, which increase the risk of cardiovascular disease and type 2 
+diabetes. Furthermore, oligosaccharides have potential applications in the food 
+and pharmaceutical industries. Future research should focus on improving 
+industrial-scale oligosaccharide extraction and purification, as well as 
+researching their potential utility in the treatment of various health 
+disorders.[Figure: see text].","Brown seaweeds are a promising source of bioactive substances. Brown seaweed oligosaccharides (BSOSs) are extracted using various methods. BSOSs exhibit a range of biological properties, mainly antimicrobial, anti-inflammatory, and prebiotic properties. They have been linked to possible health advantages, including metabolic syndrome management. Future research should focus on improving industrial-scale oligosACcharide extraction and purification, as well as researching their potential utility in the treatment of various health disorders.",0.835960031,0.696396768,0.80592984,0.167701863,0.178125,0.751968504
+37726791,"Prevalence and quality of temporomandibular disorders, chronic pain and 
+psychological distress in patients with classical and hypermobile Ehlers-Danlos 
+syndrome: an exploratory study.","BACKGROUND: The Ehlers-Danlos syndromes are a group of clinically and 
+genetically heterogeneous hereditary diseases affecting the connective tissue. 
+They are characterized by hypermobility of the joints, hyperextensible skin and 
+friable tissue. According to current classification, 13 subtypes can be 
+distinguished, of which the hypermobile and the classical subtype are the most 
+prevalent. This study aimed to evaluate patients with classical (cEDS) and 
+hypermobile (hEDS) Ehlers-Danlos syndrome regarding temporomandibular disorder 
+(TMD), chronic pain, and psychological distress.
+METHODS: Support groups from Germany, Austria, and Switzerland were contacted, 
+and social media were used to recruit participants. Free text questions, the 
+German version of the Depression Anxiety and Stress Scale (DASS), and the German 
+version of the Graded Chronic Pain Status (GCPS) were used.
+RESULTS: 259 participants were included (230 hEDS/29 cEDS). At least 49.2% of 
+the participants had painful or restricted jaw movements, and at least 84.9% had 
+pain in the masticatory muscles, with 46.3% already having a diagnosed TMD. 
+Multivariate analysis showed a significant correlation between TMJ involvement 
+and chronic pain with a 2.5-fold higher risk of chronic pain with a diagnosed 
+TMD. 22.8% of participants had a critical score for depression, 53.3% had a 
+critical score for anxiety, and 34.0% had a critical score for stress.
+CONCLUSION: There is a high prevalence of TMD problems and chronic pain in 
+patients with cEDS and hEDS. The lack of knowledge about these problems can 
+create psychological distress. More research is needed to provide adequate 
+treatment for patients with EDS.","Ehlers-Danlos syndromes are a group of clinically and genetically heterogeneous hereditary diseases affecting the connective tissue. There is a high prevalence of TMD problems and chronic pain in patients with cEDS and hEDS. The lack of knowledge about these problems can                 create psychological distress. More research is needed to provide adequate treatment for patients with EDS, says the study's lead researcher, Andreas Schulte. The study was published in the Journal of Clinical Endocrinology and Metabolism.",0.836267531,0.772309721,0.851905406,0.146417445,0.166144201,0.853658537
+37726485,"Natural language processing for automatic evaluation of free-text answers - a 
+feasibility study based on the European Diploma in Radiology examination.","BACKGROUND: Written medical examinations consist of multiple-choice questions 
+and/or free-text answers. The latter require manual evaluation and rating, which 
+is time-consuming and potentially error-prone. We tested whether natural 
+language processing (NLP) can be used to automatically analyze free-text answers 
+to support the review process.
+METHODS: The European Board of Radiology of the European Society of Radiology 
+provided representative datasets comprising sample questions, answer keys, 
+participant answers, and reviewer markings from European Diploma in Radiology 
+examinations. Three free-text questions with the highest number of corresponding 
+answers were selected: Questions 1 and 2 were ""unstructured"" and required a 
+typical free-text answer whereas question 3 was ""structured"" and offered a 
+selection of predefined wordings/phrases for participants to use in their 
+free-text answer. The NLP engine was designed using word lists, rule-based 
+synonyms, and decision tree learning based on the answer keys and its 
+performance tested against the gold standard of reviewer markings.
+RESULTS: After implementing the NLP approach in Python, F1 scores were 
+calculated as a measure of NLP performance: 0.26 (unstructured question 1, n = 
+96), 0.33 (unstructured question 2, n = 327), and 0.5 (more structured question, 
+n = 111). The respective precision/recall values were 0.26/0.27, 0.4/0.32, and 
+0.62/0.55.
+CONCLUSION: This study showed the successful design of an NLP-based approach for 
+automatic evaluation of free-text answers in the EDiR examination. Thus, as a 
+future field of application, NLP could work as a decision-support system for 
+reviewers and support the design of examinations being adjusted to the 
+requirements of an automated, NLP-based review process.
+CLINICAL RELEVANCE STATEMENT: Natural language processing can be successfully 
+used to automatically evaluate free-text answers, performing better with more 
+structured question-answer formats. Furthermore, this study provides a baseline 
+for further work applying, e.g., more elaborated NLP approaches/large language 
+models.
+KEY POINTS: • Free-text answers require manual evaluation, which is 
+time-consuming and potentially error-prone. • We developed a simple NLP-based 
+approach - requiring only minimal effort/modeling - to automatically analyze and 
+mark free-text answers. • Our NLP engine has the potential to support the manual 
+evaluation process. • NLP performance is better on a more structured 
+question-answer format.","Natural language processing (NLP) can be used to automatically analyze free-text answers in medical examinations. NLP engine was designed using word lists, rule-based synonyms, and decision tree learning. It performed better on a more structured question-answer format than an unstructured one. The study shows the successful design of an NLP-based approach for automatic evaluation of free- text answers in the EDiR examination. It provides a baseline for further work applying more elaborated NLP approaches/models.",0.876862526,0.742790043,0.854811966,0.122931442,0.114014252,0.851002865
+37726022,"Medication Reconciliation During Transitions of Care Across Institutions: A 
+quantitative analysis of challenges and opportunities.","OBJECTIVE: Medication discrepancies between clinical systems may pose a patient 
+safety hazard. In this paper, we identify challenges and quantify medication 
+discrepancies across transitions of care.
+MATERIALS AND METHODS: We used structured clinical data and free-text hospital 
+discharge summaries to compare active medications lists at four time points: 
+pre-admission (outpatient), at-admission (inpatient), at-discharge (inpatient) 
+and post-discharge (outpatient). Medication lists were normalized to RxNorm. 
+RxNorm identifiers were further processed using the RxNav API to identify the 
+ingredient. The specific drugs and ingredients from inpatient and outpatient 
+medication lists were compared.
+RESULTS: Using RxNorm drugs, the median percentage intersection when comparing 
+active medication lists within the same EHR system ranged between 94.1% and 100% 
+indicating substantial overlap. Similarly, when using RxNorm ingredients the 
+median percentage intersection was 94.1% to 100%. In contrast, the median 
+percentage intersection when comparing active medication lists across EHR 
+systems was significantly lower (RxNorm drugs: 6.1-7.1%; RxNorm ingredients: 
+29.4-35.0%) indicating that the active medication lists were significantly less 
+similar (p < 0.05).
+DISCUSSION: Medication lists in the same EHR system are more similar to each 
+other (fewer discrepancies) than medication lists in different EHR systems when 
+comparing specific RxNorm drug and the more general RxNorm ingredients at 
+transitions of care. Transitions of care that require interoperability between 
+two EHR systems are associated with more discrepancies than transitions where 
+medication changes are expected (e.g., at-admission vs at-discharge). Challenges 
+included lack of access to structured, standardized medication data across 
+systems and difficulty distinguishing medications from orderable supplies such 
+as lancets and diabetic test strips.
+CONCLUSION: Despite the challenges to medication normalization, there are 
+opportunities to identify and assist with medication reconciliation across 
+transitions of care between institutions.","Medication discrepancies between clinical systems may pose a patient safety hazard. We identify challenges and quantify medication discrepancies across transitions of care. Medication lists in the same EHR system are more similar to each other (fewer discrepancies) than medication lists in different EHR systems. Despite the challenges to medication normalization, there are opportunities to identify and assist with medication reconciliation across institutions. The study was published in the Journal of the American College of Cardiology (JAC Cardiology) and the American Journal of Clinical Pharmacology (AJCP)",0.814879537,0.711745203,0.801911294,0.129834254,0.152777778,0.823104693
+37726017,"A Systematic Review and Meta-analysis of Two Negative Pressure Wound Therapy 
+Devices to Manage Cesarean Section Incisions.","This paper aims to evaluate whether there is a device-dependent effect on the 
+reduction of surgical site complications in obese patients (body mass index 
+[BMI] ≥ 30 kg/m2) undergoing cesarean section (C-section). PubMed, Embase, 
+Cochrane Library, and ClinicalTrials.gov were searched for the period, January 
+2011 to September 2021. English language articles describing a randomized 
+controlled trial (RCT) that compared either a -80 or -125 mm Hg single-use 
+negative pressure wound therapy (sNPWT) device to standard dressings in obese 
+(BMI ≥ 30 kg/m2) patients undergoing C-section were included. Conference 
+abstracts and ""terminated"" RCTs with published results were deemed eligible for 
+inclusion. The primary outcome of interest was surgical site infection (SSI), 
+classified as composite, superficial, or deep. Secondary outcomes assessed 
+included seroma, dehiscence, hematoma, bleeding, reoperation, readmission, 
+blistering, and (composite) wound complications. A total of 223 titles were 
+identified, of which 129 were screened by full-text review. Eleven RCTs 
+encompassing 5,847 patients met the inclusion criteria and were considered 
+eligible for further analysis (-80 mm Hg: six studies; -125 mm Hg: five 
+studies). A statistically significant improvement in the composite SSI (odds 
+ratio [OR]: 0.69; 95% confidence interval [CI]: 0.54-0.89) and superficial SSI 
+(OR: 0.66; 95% CI: 0.50-0.86) outcomes was observed with the -80 mm Hg device, 
+compared with standard dressings. The same effect on SSI outcomes was not 
+observed with the -125 mm Hg device (composite SSI-OR: 0.91; 95% CI: 0.64-1.28; 
+superficial SSI-OR: 1.12; 95% CI: 0.70-1.78). There were no statistically 
+significant differences in any of the other assessed outcomes. sNPWT devices may 
+differ in their ability to reduce composite or superficial SSI after C-section. 
+KEY POINTS: · Negative pressure benefits obese patients undergoing C-section.. · 
+Negative pressure devices may differ in performance.. · A head-to-head clinical 
+trial is needed..","This paper aims to evaluate whether there is a device-dependent effect on the                 reduction of surgical site complications in obese patients. The primary outcome of interest was surgical site infection (SSI) Secondary outcomes assessed included seroma, dehiscence, hematoma, bleeding, reoperation, readmission, and (composite) wound complications. A statistically significant improvement in the composite SSI and superficial SSI outcomes was observed with the -80 mm Hg device, compared with standard dressings.",0.849829018,0.697428644,0.802348137,0.155988858,0.170868347,0.768965517
+37725927,"Improving model transferability for clinical note section classification models 
+using continued pretraining.","OBJECTIVE: The classification of clinical note sections is a critical step 
+before doing more fine-grained natural language processing tasks such as social 
+determinants of health extraction and temporal information extraction. Often, 
+clinical note section classification models that achieve high accuracy for 1 
+institution experience a large drop of accuracy when transferred to another 
+institution. The objective of this study is to develop methods that classify 
+clinical note sections under the SOAP (""Subjective,"" ""Object,"" ""Assessment,"" and 
+""Plan"") framework with improved transferability.
+MATERIALS AND METHODS: We trained the baseline models by fine-tuning BERT-based 
+models, and enhanced their transferability with continued pretraining, including 
+domain-adaptive pretraining and task-adaptive pretraining. We added in-domain 
+annotated samples during fine-tuning and observed model performance over a 
+varying number of annotated sample size. Finally, we quantified the impact of 
+continued pretraining in equivalence of the number of in-domain annotated 
+samples added.
+RESULTS: We found continued pretraining improved models only when combined with 
+in-domain annotated samples, improving the F1 score from 0.756 to 0.808, 
+averaged across 3 datasets. This improvement was equivalent to adding 35 
+in-domain annotated samples.
+DISCUSSION: Although considered a straightforward task when performing 
+in-domain, section classification is still a considerably difficult task when 
+performing cross-domain, even using highly sophisticated neural network-based 
+methods.
+CONCLUSION: Continued pretraining improved model transferability for 
+cross-domain clinical note section classification in the presence of a small 
+amount of in-domain labeled samples.","The classification of clinical note sections is a critical step before doing more fine-grained natural language processing tasks. Often, models that achieve high accuracy for 1 institution experience a large drop of accuracy when transferred to another institution. The objective of this study is to develop methods that classify clinical note sections under the SOAP framework with improved transferability. We found continued pretraining improved models only when combined with in-domain annotated samples, improving the F1 score from 0.756 to 0.808.",0.85035634,0.717429638,0.723686934,0.198051948,0.232026144,0.657894737
+37725108,"Disease severity, arrhythmogenesis, and fibrosis are related to longer action 
+potentials in tetralogy of Fallot.","BACKGROUND: Arrhythmias may originate from surgically unaffected right 
+ventricular (RV) regions in patients with tetralogy of Fallot (TOF). We aimed to 
+investigate action potential (AP) remodelling and arrhythmia susceptibility in 
+RV myocardium of patients with repaired and with unrepaired TOF, identify 
+possible correlations with clinical phenotype and myocardial fibrosis, and 
+compare findings with data from patients with atrial septal defect (ASD), a less 
+severe congenital heart disease.
+METHODS: Intracellular AP were recorded ex vivo in RV outflow tract samples from 
+22 TOF and three ASD patients. Arrhythmias were provoked by superfusion with 
+solutions containing reduced potassium and barium chloride, or isoprenaline. 
+Myocardial fibrosis was quantified histologically and associations between 
+clinical phenotype, AP shape, tissue arrhythmia propensity, and fibrosis were 
+examined.
+RESULTS: Electrophysiological abnormalities (arrhythmias, AP duration [APD] 
+alternans, impaired APD shortening at increased stimulation frequencies) were 
+generally present in TOF tissue, even from infants, but rare or absent in ASD 
+samples. More severely diseased and acyanotic patients, pronounced tissue 
+susceptibility to arrhythmogenesis, and greater fibrosis extent were associated 
+with longer APD. In contrast, APD was shorter in tissue from patients with 
+pre-operative cyanosis. Increased fibrosis and repaired-TOF status were linked 
+to tissue arrhythmia inducibility.
+CONCLUSIONS: Functional and structural tissue remodelling may explain arrhythmic 
+activity in TOF patients, even at a very young age. Surprisingly, clinical 
+acyanosis appears to be associated with more severe arrhythmogenic remodelling. 
+Further research into the clinical drivers of structural and electrical 
+myocardial alterations, and the relation between them, is needed to identify 
+predictive factors for patients at risk. Central illustration: summary diagram 
+of essential study results. Note that not all results are depicted here. For 
+more detail, see text. APA action potential amplitude, APD action potential 
+duration, AUC area under the curve, TOF tetralogy of Fallot.","Arrhythmias may originate from surgically unaffected right                 ventricular (RV) regions in patients with tetralogy of Fallot (TOF) We aimed to investigate action potential (AP) remodelling and arrhythmia susceptibility in TOF and atrial septal defect (ASD) patients. More severely diseased and acyanotic patients, pronounced tissue susceptibility to arrhythmogenesis, and greater fibrosis extent were associated with longer APD.",0.892487586,0.743076324,0.808314741,0.13583815,0.14244186,0.817241379
+37725023,"Effect of Bougie Use on First-Attempt Success in Tracheal Intubations: A 
+Systematic Review and Meta-Analysis.","The use of a bougie, a flexible endotracheal tube introducer, has been proposed 
+to optimize first-attempt success in emergency department intubations. We aimed 
+to evaluate the available evidence on the association of bougie use in the first 
+attempt and success in tracheal intubations. This was a systematic review and 
+meta-analysis of studies that evaluated first-attempt success between adults 
+intubated with a bougie versus without a bougie (usually with a stylet) in all 
+settings. Manikin and cadaver studies were excluded. A medical librarian 
+searched Ovid Cochrane Central, Ovid Embase, Ovid Medline, Scopus, and Web of 
+Science for randomized controlled trials and comparative observational studies 
+from inception to June 2023. Study selection and data extraction were done in 
+duplicate by 2 independent reviewers. We conducted a meta-analysis with 
+random-effects models, and we used GRADE to assess the certainty of evidence at 
+the outcome level. We screened a total of 2,699 studies, and 133 were selected 
+for full-text review. A total of 18 studies, including 12 randomized controlled 
+trials, underwent quantitative analysis. In the meta-analysis of 18 studies 
+(9,151 patients), bougie use was associated with increased first-attempt 
+intubation success (pooled risk ratio [RR] 1.11, 95% confidence interval [CI] 
+1.06 to 1.17, low certainty evidence). Bougie use was associated with increased 
+first-attempt success across all analyzed subgroups with similar effect 
+estimates, including in emergency intubations (9 studies; 8,070 patients; RR 
+1.11, 95% CI 1.05 to 1.16, low certainty). The highest point estimate favoring 
+the use of a bougie was in the subgroup of patients with Cormack-Lehane III or 
+IV (5 studies, 585 patients, RR 1.60, 95% CI 1.40 to 1.84, moderate certainty). 
+In this meta-analysis, the bougie as an aid in the first intubation attempt was 
+associated with increased success. Despite the certainty of evidence being low, 
+these data suggest that a bougie should probably be used first and not as a 
+rescue device in emergency intubations.","The use of a bougie, a flexible endotracheal tube introducer, has been proposed to optimize first-attempt success in emergency department intubations. We screened a total of 2,699 studies, and 133 were selected for full-text review. A total of 18 studies, including 12 randomized controlled trials, underwent quantitative analysis. Bougie use was associated with increased first- attempt success (pooled risk ratio [RR] 1.11, 95% confidence interval [CI]                 1.06 to 1.17, low certainty evidence)",0.881147504,0.728572249,0.832885325,0.158441558,0.169712794,0.782747604
+37724963,"Potential of ChatGPT and GPT-4 for Data Mining of Free-Text CT Reports on Lung 
+Cancer.","Background The latest large language models (LLMs) solve unseen problems via 
+user-defined text prompts without the need for retraining, offering potentially 
+more efficient information extraction from free-text medical records than manual 
+annotation. Purpose To compare the performance of the LLMs ChatGPT and GPT-4 in 
+data mining and labeling oncologic phenotypes from free-text CT reports on lung 
+cancer by using user-defined prompts. Materials and Methods This retrospective 
+study included patients who underwent lung cancer follow-up CT between September 
+2021 and March 2023. A subset of 25 reports was reserved for prompt engineering 
+to instruct the LLMs in extracting lesion diameters, labeling metastatic 
+disease, and assessing oncologic progression. This output was fed into a 
+rule-based natural language processing pipeline to match ground truth 
+annotations from four radiologists and derive performance metrics. The oncologic 
+reasoning of LLMs was rated on a five-point Likert scale for factual correctness 
+and accuracy. The occurrence of confabulations was recorded. Statistical 
+analyses included Wilcoxon signed rank and McNemar tests. Results On 424 CT 
+reports from 424 patients (mean age, 65 years ± 11 [SD]; 265 male), GPT-4 
+outperformed ChatGPT in extracting lesion parameters (98.6% vs 84.0%, P < .001), 
+resulting in 96% correctly mined reports (vs 67% for ChatGPT, P < .001). GPT-4 
+achieved higher accuracy in identification of metastatic disease (98.1% [95% CI: 
+97.7, 98.5] vs 90.3% [95% CI: 89.4, 91.0]) and higher performance in generating 
+correct labels for oncologic progression (F1 score, 0.96 [95% CI: 0.94, 0.98] vs 
+0.91 [95% CI: 0.89, 0.94]) (both P < .001). In oncologic reasoning, GPT-4 had 
+higher Likert scale scores for factual correctness (4.3 vs 3.9) and accuracy 
+(4.4 vs 3.3), with a lower rate of confabulation (1.7% vs 13.7%) than ChatGPT 
+(all P < .001). Conclusion When using user-defined prompts, GPT-4 outperformed 
+ChatGPT in extracting oncologic phenotypes from free-text CT reports on lung 
+cancer and demonstrated better oncologic reasoning with fewer confabulations. © 
+RSNA, 2023 Supplemental material is available for this article. See also the 
+editorial by Hafezi-Nejad and Trivedi in this issue.",Latest large language models (LLMs) solve unseen problems via user-defined text prompts. GPT-4 outperformed ChatGPT in extracting oncologic phenotypes from free-text CT reports on lung cancer. It also had a lower rate of confabulation (1.7% vs 13.7%) thanChatGPT (4.3 vs 3.9) The study included patients who underwent lung cancer follow-up CT between September 2021 and March 2023.,0.696805537,0.744551361,0.643820345,0.127877238,0.11311054,0.904191617
+37723969,"Residential overcrowding in relation to children's health, environment and 
+schooling - a qualitative study.","AIM: To explore how overcrowding affects children's health, environment and 
+schooling.
+METHODS: A qualitative study was conducted with individual interviews among 20 
+participants with occupational experience from overcrowded Stockholm areas but 
+diverse in professions, locations and employers. The interviews were recorded, 
+transcribed and analysed with Systematic Text Condensation.
+RESULTS: Almost all participants expressed that overcrowding has a negative 
+impact on children's health, environment and schooling - based on perceptions of 
+precarious and different living conditions for children in overcrowded areas, 
+for example, substandard homes, vulnerability, stress, exclusion, limited 
+resources, lack of learning opportunities, gender differences, confinement, 
+shame, insecurity, conflicts, risk of criminality, and bodily impact, both 
+physical and psychological.
+CONCLUSIONS: Our qualitative evidence suggest that overcrowding has a negative 
+impact on children's health, environment and schooling.","Overcrowding has a negative impact on children's health, environment and schooling. Children in overcrowded areas experience substandard homes, vulnerability, stress, exclusion, limited resources, gender differences, confinement, shame, insecurity, conflicts, risk of criminality, and bodily impact. The study was conducted with individual interviews among 20 participants with occupational experience from overcrowded Stockholm areas but diverse in professions, locations and employers. The interviews were recorded,                 transcribed and analysed with Systematic Text Condensation.",0.822631121,0.68633157,0.814430296,0.285714286,0.304123711,0.865079365
+37723918,"A systematic review of data elements of computerized physician order entry 
+(CPOE): mapping the data to FHIR.","OBJECTIVE: Medication errors are the third leading cause of death. There are 
+several methods to prevent prescription errors, one of which is to use a 
+Computerized Physician Order Entry system (CPOE). In a CPOE system, necessary 
+data needs to be collected so that making decisions about prescribing 
+medications and treatment plans could be made. Although many CPOE systems have 
+been developed worldwide, studies have yet to identify the necessary data and 
+data elements of CPOE systems. This study aims to identify data elements of CPOE 
+and standardize these data with Fast Healthcare Interoperability Resources 
+(FHIR) to facilitate data sharing and integration with the electronic health 
+record (EHR) system and reduce data diversity.
+METHODS: PubMed, Web of Science, Embase, and Scopus databases for studies up to 
+October 2019 were searched. Two reviewers independently assessed original 
+articles to determine eligibility for inclusion in this review. All articles 
+describing data elements of a COPE system were included. Data elements were 
+obtained from the included articles' text, tables, and figures.Classification of 
+the extracted data elements and mapping them to FHIR was done to facilitate data 
+sharing and integration with the electronic health record (EHR) system and 
+reduce data diversity. The final data elements of CPOE were categorized into 
+five main categories of FHIR (foundation, base, clinical, financial, and 
+specialized) and 146 resources, where possible. One of the researchers did 
+mapping and checked and verified by the second researcher. If a data element 
+could not be mapped to any FHIR resources, this data element was considered an 
+extension to the most relevant resource.
+RESULTS: We retrieved 5162 articles through database searches. After the 
+full-text assessment, 21 articles were included. In total, 270 data elements 
+were identified and mapped to the FHIR standard. These elements have been 
+reported in 26 FHIR resources of 146 ones (18%). In total, 71 data elements were 
+considered an extension.
+CONCLUSIONS: The results of this study showed that the same data elements were 
+not used in the CPOE systems, and the degree of homogeneity of these systems is 
+limited. The mapping of extracted data with data elements used in the FHIR 
+standard shows the extent to which these systems comply with existing standards. 
+Considering the standards in these systems' design helps developers design more 
+coherent systems that can share data with other systems.","Medication errors are the third leading cause of death. This study aims to identify data elements of CPOE systems and standardize these data with Fast Healthcare Interoperability Resources (FHIR) This will facilitate data sharing and integration with the electronic health record (EHR) system and reduce data diversity. The results of this study showed that the same data elements were not used in the CPOe systems, and the degree of homogeneity of these systems is limited.Considering the standards in these systems' design helps developers design more efficient systems that can share data with other systems.",0.854706228,0.709670842,0.789850712,0.128151261,0.168776371,0.772251309
+37723589,"Effectiveness of de-implementation strategies for low-value prescribing in 
+secondary care: a systematic review.","BACKGROUND/AIMS: Considerable efforts have been made to improve guideline 
+adherence in healthcare through de-implementation, such as decreasing the 
+prescription of inappropriate medicines. However, we have limited knowledge 
+about the effectiveness, barriers, facilitators and consequences of 
+de-implementation strategies targeting inappropriate medication prescribing in 
+secondary care settings. This review was conducted to understand these factors 
+to contribute to better replication and optimisation of future de-implementation 
+efforts to reduce low-value care.
+METHODS: A systematic review of randomised control trials was conducted. Papers 
+were identified through CINAHL, EMBASE, MEDLINE and Cochrane register of 
+controlled trials to February 2021. Eligible studies were randomised control 
+trials evaluating behavioural strategies to de-implement inappropriate 
+prescribing in secondary healthcare. Risk of bias was assessed using the 
+Cochrane Risk of Bias tool. Intervention characteristics, effectiveness, 
+barriers, facilitators and consequences were identified in the study text and 
+tabulated.
+RESULTS: Eleven studies were included, of which seven were reported as 
+effectively de-implementing low-value prescribing. Included studies were judged 
+to be mainly at low to moderate risk for selection biases and generally high 
+risk for performance and reporting biases. The majority of these strategies were 
+clinical decision support at the 'point of care'. Clinical decision support 
+tools were the most common and effective. They were found to be a low-cost and 
+simple strategy. However, barriers such as clinician's reluctance to accept 
+recommendations, or the clinical setting were potential barriers to their 
+success. Educational strategies were the second most reported intervention type 
+however the utility of educational strategies for de-implementation remains 
+varied. Multiple barriers and facilitators relating to the environmental 
+context, resources and knowledge were identified across studies as potentially 
+influencing de-implementation. Various consequences were identified; however, 
+few measured the impact of de-implementation on usual appropriate practice.
+CONCLUSION: This review offers insight into the intervention strategies, 
+potential barriers, facilitators and consequences that may affect the 
+de-implementation of low-value prescribing in secondary care. Identification of 
+these key features helps understand how and why these strategies are effective 
+and the wider (desirable or undesirable) impact of de-implementation. These 
+findings can contribute to the successful replication or optimisation of 
+strategies used to de-implement low-value prescribing practices in future.
+TRIAL REGISTRATION: The review protocol was registered at PROSPERO (ID: 
+CRD42021243944).","Review of randomised control trials to February 2021. Eligible studies evaluated behavioural strategies to de-implement inappropriate medication prescribing in secondary healthcare. The majority of these strategies were clinical decision support at the 'point of care' Educational strategies were the second most reported intervention type. Risk of bias was assessed using the Cochrane Risk of Bias tool. Intervention characteristics, effectiveness, barriers, facilitators and consequences were identified in the study text and tabulated. Identification of these key features helps understand how and why these strategies are effective.",0.902840078,0.764279485,0.839939654,0.136465324,0.157303371,0.837016575
+37723447,"Lower limb muscle strength and balance in older adults with a distal radius 
+fracture: a systematic review.","BACKGROUND: Distal radius fractures are common fractures in older adults and 
+associated with increased risk of future functional decline and hip fracture. 
+Whether lower limb muscle strength and balance are impaired in this patient 
+population is uncertain. To help inform rehabilitation requirements, this 
+systematic review aimed to compare lower limb muscle strength and balance 
+between older adults with a distal radius fracture with matched controls, and to 
+synthesise lower limb muscle strength and balance outcomes in older adults with 
+a distal radius fracture.
+METHODS: We searched Embase, MEDLINE, and CINAHL (1990 to 25 May 2022) for 
+randomised and non-randomised controlled clinical trials and observational 
+studies that measured lower limb muscle strength and/or balance using 
+instrumented measurements or validated tests, in adults aged ≥ 50 years enrolled 
+within one year after distal radius fracture. We appraised included 
+observational studies using a modified Newcastle-Ottawa Scale and included 
+randomised controlled trials using the Cochrane risk-of-bias tool. Due to the 
+clinical and methodological heterogeneity in included studies, we synthesised 
+results narratively in tables and text.
+RESULTS: Nineteen studies (10 case-control studies, five case series, and four 
+randomised controlled trials) of variable methodological quality and including 
+1835 participants (96% women, mean age 55-73 years, median sample size 82) were 
+included. Twelve included studies (63%) assessed strength using 10 different 
+methods with knee extension strength most commonly assessed (6/12 (50%) 
+studies). Five included case-control studies (50%) assessed lower limb strength. 
+Cases demonstrated impaired strength during functional tests (two studies), but 
+knee extension strength assessment findings were conflicting (three studies). 
+Eighteen included studies (95%) assessed balance using 14 different methods. 
+Single leg balance was most commonly assessed (6/18 (33%) studies). All 
+case-control studies assessed balance with inconsistent findings.
+CONCLUSION: Compared to controls, there is some evidence that older adults with 
+a distal radius fracture have impaired lower limb muscle strength and balance. A 
+cautious interpretation is required due to inconsistent findings across studies 
+and/or outcome measures. Heterogeneity in control participants' characteristics, 
+study design, study quality, and assessment methods limited synthesis of 
+results. Robust case-control and/or prospective observational studies are 
+needed.
+REGISTRATION: International prospective register of systematic reviews (date of 
+registration: 02 July 2020, registration identifier: CRD42020196274).","Distal radius fractures are common fractures in older adults. There is some evidence that older adults with a distal radius fracture have impaired lower limb muscle strength and balance. Robust case-control and/or prospective observational studies are needed to confirm these findings. Heterogeneity in control participants' characteristics, study design, study quality, and assessment methods limited synthesis of results. A cautious interpretation is required due to inconsistent findings across studies and outcome measures. For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",0.716151357,0.676896334,0.777848184,0.127753304,0.126106195,0.885793872
